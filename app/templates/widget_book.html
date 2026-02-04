@@ -10,7 +10,7 @@
     <div class="wtitle">{{ b['title'] }}</div>
     <div class="wmeta">{{ b['category'] or '—' }} • {{ b['language']|upper }}</div>
     <div class="wdesc">{{ (b['description'] or '')[:120] }}{% if (b['description'] or '')|length > 120 %}…{% endif %}</div>
-    <a class="wbtn" href="/book/{{ b['id'] }}" target="_blank">Open</a>
+    <a class="wbtn" href="{{ url_for('public.public_book', book_id=b['id']) }}" target="_blank">Open</a>
   </div>
 </body>
 </html>
