@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Login</h1>
+<form class="card form" method="post" action="{{ url_for('auth.login_post') }}">
+  <label>Email</label><input name="email" type="email" required/>
+  <label>Password</label><input name="password" type="password" required/>
+  <button class="btn" type="submit">Login</button>
+  <p class="muted">Admin: admin@revenuepress.local / admin123!</p>
+</form>
+{% endblock %}

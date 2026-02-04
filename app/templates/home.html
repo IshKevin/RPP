@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="hero">
+  <div class="hero-left">
+    <h1>{{ g.t('hero_title') }}</h1>
+    <p class="sub">{{ g.t('hero_sub') }}</p>
+    <div class="cta-row">
+      <a class="btn big" href="{{ url_for('auth.register') }}">{{ g.t('cta_start') }}</a>
+      <a class="btn ghost big" href="{{ url_for('public.pricing') }}">{{ g.t('cta_demo') }}</a>
+    </div>
+    <div class="valuegrid">
+      <div class="card"><h3>{{ g.t('value_1') }}</h3><p>Audience, channels, keywords, hashtags, emotional map, gifts.</p></div>
+      <div class="card"><h3>{{ g.t('value_2') }}</h3><p>Ready-to-post messages, CTAs, launch sequences, landing copy.</p></div>
+      <div class="card"><h3>{{ g.t('value_3') }}</h3><p>Hot Books/Authors, embeddable widgets, share boosters.</p></div>
+    </div>
+  </div>
+  <div class="hero-right">
+    <div class="mock">
+      <div class="mock-title">Video Presentation (Auto EN/FR)</div>
+      <div class="video-ph">
+        {% if g.lang == 'fr' %}
+          <strong>Présentation (démo)</strong><br/>Votre vidéo s’affichera ici selon la langue.
+        {% else %}
+          <strong>Presentation (demo)</strong><br/>Your video will appear here based on language.
+        {% endif %}
+      </div>
+      <div class="mock-actions">
+        <a class="btn small" href="{{ url_for('auth.register') }}">Upload a Book</a>
+        <a class="btn small ghost" href="{{ url_for('author.whatsapp_pitch') }}">WhatsApp Pitch</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <h2>Hot Books of the Month</h2>
+  <div class="grid">
+    {% for b in hot_books %}
+      <a class="card link" href="{{ url_for('public.public_book', book_id=b['id']) }}">
+        <h3>{{ b['title'] }}</h3>
+        <p class="muted">{{ b['category'] or '—' }} • {{ b['language']|upper }}</p>
+        <p>{{ (b['description'] or '')[:120] }}{% if (b['description'] or '')|length > 120 %}…{% endif %}</p>
+        <div class="stats">👁 {{ b['views'] }} • ❤ {{ b['likes'] }} • ↗ {{ b['shares'] }}</div>
+      </a>
+    {% else %}
+      <div class="card">No published books yet.</div>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="section">
+  <h2>Hot Authors of the Month</h2>
+  <div class="grid">
+    {% for a in hot_authors %}
+      <div class="card">
+        <h3>{{ a['name'] or 'Author' }}</h3>
+        <p class="muted">{{ a['books_count'] }} books • {{ a['views'] }} views</p>
+        <p>Feature-ready author profile (admin can promote).</p>
+      </div>
+    {% else %}
+      <div class="card">No authors yet.</div>
+    {% endfor %}
+  </div>
+</section>
+{% endblock %}

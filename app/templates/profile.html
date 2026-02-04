@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Author Profile</h1>
+<form class="card form" method="post">
+  <label>Pen name</label><input name="pen_name" value="{{ a['pen_name'] or '' }}"/>
+  <label>Bio</label><textarea name="bio" rows="5">{{ a['bio'] or '' }}</textarea>
+  <label>Website</label><input name="website" value="{{ a['website'] or '' }}"/>
+  <label>Payout method</label><input name="payout_method" placeholder="PayPal / Bank / Stripe / Mobile Money" value="{{ a['payout_method'] or '' }}"/>
+  <label>Payout details</label><textarea name="payout_details" rows="3">{{ a['payout_details'] or '' }}</textarea>
+  <label>Default language</label>
+  <select name="default_language">
+    <option value="en" {% if a['default_language']=='en' %}selected{% endif %}>English</option>
+    <option value="fr" {% if a['default_language']=='fr' %}selected{% endif %}>Français</option>
+  </select>
+  <button class="btn" type="submit">Save</button>
+</form>
+{% endblock %}

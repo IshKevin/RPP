@@ -1,0 +1,64 @@
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
+    ports:
+      - "5432:5432"
+    volumes:
+      - rp_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER}"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+
+  engine:
+    build:
+      context: ../runtime/engine
+      dockerfile: Dockerfile
+    environment:
+      APP_ENV: ${APP_ENV}
+      DATABASE_URL: ${DATABASE_URL}
+      ENGINE_API_KEY: ${ENGINE_API_KEY}
+      PAYMENTS_MODE: ${PAYMENTS_MODE}
+      WHATSAPP_MODE: ${WHATSAPP_MODE}
+      ENABLE_HOT_LISTS: ${ENABLE_HOT_LISTS}
+      ENABLE_VIRAL_WIDGETS: ${ENABLE_VIRAL_WIDGETS}
+      ENABLE_LAUNCH_PACK_EXPORT: ${ENABLE_LAUNCH_PACK_EXPORT}
+    ports:
+      - "${ENGINE_PORT}:8090"
+    depends_on:
+      db:
+        condition: service_healthy
+
+  web:
+    build:
+      context: ../runtime/web
+      dockerfile: Dockerfile
+    environment:
+      APP_ENV: ${APP_ENV}
+      APP_BASE_URL: ${APP_BASE_URL}
+      DATABASE_URL: ${DATABASE_URL}
+      WEB_SECRET_KEY: ${WEB_SECRET_KEY}
+      ENGINE_URL: http://engine:8090
+      ENGINE_API_KEY: ${ENGINE_API_KEY}
+      PAYMENTS_MODE: ${PAYMENTS_MODE}
+      STRIPE_SECRET_KEY: ${STRIPE_SECRET_KEY}
+      PAYPAL_CLIENT_ID: ${PAYPAL_CLIENT_ID}
+      WHATSAPP_MODE: ${WHATSAPP_MODE}
+      WHATSAPP_PHONE_NUMBER_ID: ${WHATSAPP_PHONE_NUMBER_ID}
+      WHATSAPP_ACCESS_TOKEN: ${WHATSAPP_ACCESS_TOKEN}
+      WHATSAPP_VERIFY_TOKEN: ${WHATSAPP_VERIFY_TOKEN}
+    ports:
+      - "${WEB_PORT}:8080"
+    depends_on:
+      db:
+        condition: service_healthy
+      engine:
+        condition: service_started
+
+volumes:
+  rp_pgdata:

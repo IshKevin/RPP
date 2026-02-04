@@ -1,0 +1,66 @@
+version: '3.9'
+
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: rp_db
+    environment:
+      POSTGRES_DB: revenuepress
+      POSTGRES_USER: revenuepress
+      POSTGRES_PASSWORD: revenuepress
+    ports:
+      - "5432:5432"
+    volumes:
+      - rp_pgdata:/var/lib/postgresql/data
+      - ./db/schema_postgres.sql:/docker-entrypoint-initdb.d/01_schema.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U revenuepress -d revenuepress"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+  engine:
+    build:
+      context: ./engine
+      dockerfile: Dockerfile
+    container_name: rp_engine
+    environment:
+      ENGINE_ENV: "docker"
+    ports:
+      - "8000:8000"
+    depends_on:
+      db:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:8000/healthz"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+  web:
+    build:
+      context: ./web
+      dockerfile: Dockerfile
+    container_name: rp_web
+    environment:
+      NODE_ENV: "production"
+      DATABASE_URL: "postgresql://revenuepress:revenuepress@db:5432/revenuepress"
+      ENGINE_BASE_URL: "http://engine:8000"
+      NEXT_PUBLIC_ENGINE_BASE_URL: "http://localhost:8000"
+      NEXT_PUBLIC_BASE_URL: "http://localhost:3000"
+      NEXT_PUBLIC_DEFAULT_LOCALE: "auto"
+      PAYMENTS_PROVIDER: "stripe"
+      STRIPE_PUBLISHABLE_KEY: ""
+      STRIPE_SECRET_KEY: ""
+      PAYPAL_CLIENT_ID: ""
+      PAYPAL_SECRET: ""
+    ports:
+      - "3000:3000"
+    depends_on:
+      db:
+        condition: service_healthy
+      engine:
+        condition: service_healthy
+
+volumes:
+  rp_pgdata:

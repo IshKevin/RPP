@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Payments</h1>
+<p class="muted">This build includes payment providers as placeholders (Stripe, PayPal, manual). Hook real APIs later.</p>
+<div class="grid">
+  {% for p in plans %}
+    <div class="card">
+      <h3>{{ p['name'] }} ({{ p['code'] }})</h3>
+      <div class="price">{{ p['currency'] }} {{ "%.0f"|format(p['price_monthly']) }}/mo</div>
+      <form method="post" action="{{ url_for('author.payments_create') }}">
+        <input type="hidden" name="plan_code" value="{{ p['code'] }}"/>
+        <label>Provider</label>
+        <select name="provider">
+          <option value="stripe">Stripe</option>
+          <option value="paypal">PayPal</option>
+          <option value="bank">Bank transfer</option>
+          <option value="mobilemoney">Mobile money</option>
+        </select>
+        <button class="btn" type="submit">Create Order</button>
+      </form>
+    </div>
+  {% endfor %}
+</div>
+{% endblock %}

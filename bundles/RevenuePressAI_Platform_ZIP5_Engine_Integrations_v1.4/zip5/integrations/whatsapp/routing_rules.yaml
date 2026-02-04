@@ -1,0 +1,16 @@
+# WhatsApp Routing & Group Auto-Detect (RevenuePressAI)
+# v1.4 — language-aware
+
+# Concept:
+# - The platform proposes relevant WhatsApp groups based on: language, genre, audience, geography, and campaign goal.
+# - If the user browser language is fr, default to FR groups; otherwise EN.
+# - Each group has posting rules, time windows, and anti-spam cooldown.
+
+defaults:
+  cooldown_hours: 72
+  max_groups_per_pack: 6
+  languages:
+    en: "EN"
+    fr: "FR"
+
+...

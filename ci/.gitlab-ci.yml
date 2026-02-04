@@ -1,0 +1,24 @@
+stages:
+  - verify
+  - build
+
+variables:
+  DOCKER_DRIVER: overlay2
+
+verify:
+  stage: verify
+  image: alpine:3.20
+  before_script:
+    - apk add --no-cache bash unzip python3
+  script:
+    - bash scripts/assemble.sh
+    - bash scripts/verify_all.sh
+
+build_containers:
+  stage: build
+  image: docker:27
+  services:
+    - docker:27-dind
+  script:
+    - docker version
+    - docker compose -f compose/docker-compose.yml --env-file compose/.env.example build

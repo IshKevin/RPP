@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>{% if b %}Edit Book{% else %}New Book{% endif %}</h1>
+<form class="card form" method="post" enctype="multipart/form-data">
+  <label>Title</label><input name="title" required value="{{ b['title'] if b else '' }}"/>
+  <label>Subtitle</label><input name="subtitle" value="{{ b['subtitle'] if b else '' }}"/>
+  <label>Language</label>
+  <select name="language">
+    <option value="en" {% if b and b['language']=='en' %}selected{% endif %}>English</option>
+    <option value="fr" {% if b and b['language']=='fr' %}selected{% endif %}>Français</option>
+  </select>
+  <label>Category</label><input name="category" value="{{ b['category'] if b else '' }}" placeholder="Business / Romance / Thriller / Health ..."/>
+  <label>Description</label><textarea name="description" rows="6">{{ b['description'] if b else '' }}</textarea>
+  <label>Manuscript text (optional excerpt for analysis)</label><textarea name="manuscript_text" rows="8">{{ b['manuscript_text'] if b else '' }}</textarea>
+  <label>ISBN (optional)</label><input name="isbn" value="{{ b['isbn'] if b else '' }}"/>
+  <label>Amazon URL (optional)</label><input name="amazon_url" value="{{ b['amazon_url'] if b else '' }}"/>
+  <label>Cover image (optional)</label><input type="file" name="cover"/>
+  <button class="btn" type="submit">{% if b %}Save{% else %}Create{% endif %}</button>
+</form>
+{% endblock %}

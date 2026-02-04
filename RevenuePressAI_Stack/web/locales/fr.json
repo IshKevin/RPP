@@ -1,0 +1,64 @@
+{
+  "brand": "RevenuePress AI",
+  "tagline": "You wrote the book. We ignite the movement.",
+
+  "hero_title": "Transformez votre livre en machine à revenus — en quelques jours.",
+  "hero_sub": "Soumettez n’importe quel livre (anglais ou français). RevenuePress AI génère les assets de lancement : audiences cibles, mots‑clés/hashtags, scripts publicitaires, briefs visuels, plan multicanal — puis suit les résultats.",
+  "cta_primary": "Démarrer — Soumettre un livre",
+  "cta_secondary": "Voir une démo (Dashboard)",
+
+  "value_1_title": "1) Définir l’audience",
+  "value_1_body": "Identification de l’audience cible (lecteurs, niches, régions) + meilleur canal pour chaque segment.",
+  "value_2_title": "2) Créer les messages",
+  "value_2_body": "Messages + CTA par canal, angle émotionnel, concept “cadeau” (lead magnet) — prêts à publier.",
+  "value_3_title": "3) Générer les assets",
+  "value_3_body": "Mots‑clés, hashtags, scripts vidéo, brief images/vidéos (stock gratuit), plan de diffusion + suivi.",
+
+  "menu_submit": "Soumettre un livre",
+  "menu_dashboard": "Dashboard",
+  "menu_pricing": "Tarifs",
+  "menu_privacy": "Confidentialité & RGPD",
+  "menu_terms": "Conditions",
+
+  "hot_books_title": "Livres “Hot” du mois",
+  "hot_books_body": "Widget viral : top livres selon les clics, partages, conversions — incite au partage.",
+  "hot_authors_title": "Auteurs “Hot” du mois",
+  "hot_authors_body": "Classement mensuel : lectures, partages, inscriptions, ventes — gamification + preuve sociale.",
+  "viral_toolkit_title": "Widgets viraux intégrés",
+  "viral_toolkit_body": "Badge partageable, concours, referral, “Share-to-unlock” cadeau, compteur live — prêt à intégrer.",
+  "see_widgets": "Voir les widgets",
+
+  "submit_title": "Soumettre un livre",
+  "submit_sub": "Téléversez un fichier, ou collez le texte/description. Nous générons le plan complet (EN/FR).",
+  "field_title": "Titre du livre",
+  "field_subtitle": "Sous-titre",
+  "field_lang": "Langue du livre",
+  "field_desc": "Description",
+  "field_isbn": "ISBN (optionnel)",
+  "field_price": "Prix cible",
+  "field_goal": "Objectif (ventes, abonnés, leads, notoriété)",
+  "btn_submit": "Générer mon pack",
+
+  "dash_title": "Dashboard",
+  "dash_sub": "Démo: données fictives + flux réels (API). Branchez paiement + WhatsApp en prod.",
+  "kpi_1": "Books",
+  "kpi_2": "Authors",
+  "kpi_3": "Leads",
+
+  "privacy_title": "Confidentialité & RGPD",
+  "privacy_body": "Politique modèle. À personnaliser avec avocat. Minimisation des données, consentement, droit d’accès/suppression.",
+
+  "pay_methods_title": "Paiements",
+  "pay_methods_body": "Carte (Stripe), PayPal, Paystack, Flutterwave, DPO, virement. Devise automatique.",
+
+  "whatsapp_title": "Pitch WhatsApp (auto‑détecté)",
+  "whatsapp_body": "Boutons vers groupes EN/FR selon la langue du navigateur. Inscriptions + suivi UTM.",
+
+  "pricing_title": "Tarifs (exemple)",
+  "pricing_basic": "Basic",
+  "pricing_pro": "Pro",
+  "pricing_agency": "Agency",
+  "pricing_enterprise": "Enterprise",
+
+  "footer": "© RevenuePress AI — Spécification v1.4 (scaffold)"
+}

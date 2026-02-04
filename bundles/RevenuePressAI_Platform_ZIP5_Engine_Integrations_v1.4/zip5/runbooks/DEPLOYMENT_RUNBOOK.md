@@ -1,0 +1,505 @@
+# RevenuePressAI Deployment Runbook (ZIP5)
+
+## Architecture overview
+- Step 1: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 2: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 3: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 4: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 5: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 6: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 7: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 8: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 9: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 10: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 11: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 12: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 13: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 14: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 15: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 16: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 17: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 18: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 19: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 20: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 21: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 22: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 23: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 24: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 25: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 26: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 27: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 28: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 29: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 30: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 31: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 32: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 33: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 34: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 35: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 36: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 37: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 38: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 39: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+- Step 40: Detailed instruction for architecture overview (replace placeholders, verify logs, rollback path).
+
+## Environment variables
+- Step 1: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 2: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 3: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 4: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 5: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 6: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 7: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 8: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 9: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 10: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 11: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 12: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 13: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 14: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 15: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 16: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 17: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 18: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 19: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 20: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 21: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 22: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 23: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 24: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 25: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 26: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 27: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 28: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 29: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 30: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 31: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 32: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 33: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 34: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 35: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 36: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 37: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 38: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 39: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+- Step 40: Detailed instruction for environment variables (replace placeholders, verify logs, rollback path).
+
+## Payments configuration
+- Step 1: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 2: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 3: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 4: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 5: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 6: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 7: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 8: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 9: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 10: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 11: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 12: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 13: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 14: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 15: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 16: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 17: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 18: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 19: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 20: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 21: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 22: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 23: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 24: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 25: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 26: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 27: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 28: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 29: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 30: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 31: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 32: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 33: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 34: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 35: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 36: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 37: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 38: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 39: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+- Step 40: Detailed instruction for payments configuration (replace placeholders, verify logs, rollback path).
+
+## WhatsApp routing setup
+- Step 1: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 2: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 3: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 4: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 5: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 6: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 7: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 8: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 9: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 10: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 11: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 12: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 13: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 14: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 15: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 16: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 17: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 18: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 19: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 20: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 21: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 22: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 23: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 24: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 25: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 26: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 27: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 28: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 29: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 30: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 31: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 32: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 33: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 34: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 35: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 36: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 37: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 38: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 39: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+- Step 40: Detailed instruction for whatsapp routing setup (replace placeholders, verify logs, rollback path).
+
+## Bilingual auto-detect
+- Step 1: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 2: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 3: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 4: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 5: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 6: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 7: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 8: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 9: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 10: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 11: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 12: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 13: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 14: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 15: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 16: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 17: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 18: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 19: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 20: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 21: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 22: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 23: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 24: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 25: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 26: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 27: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 28: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 29: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 30: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 31: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 32: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 33: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 34: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 35: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 36: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 37: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 38: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 39: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+- Step 40: Detailed instruction for bilingual auto-detect (replace placeholders, verify logs, rollback path).
+
+## Video placeholder module
+- Step 1: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 2: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 3: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 4: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 5: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 6: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 7: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 8: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 9: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 10: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 11: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 12: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 13: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 14: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 15: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 16: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 17: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 18: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 19: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 20: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 21: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 22: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 23: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 24: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 25: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 26: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 27: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 28: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 29: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 30: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 31: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 32: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 33: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 34: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 35: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 36: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 37: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 38: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 39: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+- Step 40: Detailed instruction for video placeholder module (replace placeholders, verify logs, rollback path).
+
+## Security & privacy
+- Step 1: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 2: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 3: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 4: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 5: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 6: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 7: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 8: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 9: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 10: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 11: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 12: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 13: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 14: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 15: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 16: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 17: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 18: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 19: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 20: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 21: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 22: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 23: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 24: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 25: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 26: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 27: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 28: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 29: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 30: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 31: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 32: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 33: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 34: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 35: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 36: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 37: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 38: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 39: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+- Step 40: Detailed instruction for security & privacy (replace placeholders, verify logs, rollback path).
+
+## Observability
+- Step 1: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 2: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 3: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 4: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 5: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 6: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 7: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 8: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 9: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 10: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 11: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 12: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 13: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 14: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 15: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 16: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 17: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 18: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 19: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 20: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 21: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 22: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 23: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 24: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 25: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 26: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 27: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 28: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 29: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 30: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 31: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 32: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 33: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 34: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 35: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 36: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 37: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 38: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 39: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+- Step 40: Detailed instruction for observability (replace placeholders, verify logs, rollback path).
+
+## Backups
+- Step 1: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 2: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 3: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 4: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 5: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 6: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 7: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 8: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 9: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 10: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 11: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 12: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 13: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 14: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 15: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 16: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 17: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 18: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 19: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 20: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 21: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 22: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 23: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 24: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 25: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 26: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 27: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 28: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 29: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 30: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 31: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 32: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 33: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 34: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 35: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 36: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 37: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 38: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 39: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+- Step 40: Detailed instruction for backups (replace placeholders, verify logs, rollback path).
+
+## Disaster recovery
+- Step 1: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 2: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 3: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 4: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 5: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 6: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 7: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 8: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 9: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 10: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 11: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 12: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 13: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 14: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 15: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 16: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 17: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 18: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 19: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 20: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 21: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 22: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 23: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 24: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 25: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 26: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 27: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 28: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 29: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 30: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 31: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 32: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 33: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 34: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 35: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 36: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 37: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 38: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 39: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+- Step 40: Detailed instruction for disaster recovery (replace placeholders, verify logs, rollback path).
+
+## QA smoke tests
+- Step 1: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 2: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 3: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 4: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 5: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 6: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 7: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 8: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 9: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 10: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 11: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 12: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 13: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 14: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 15: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 16: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 17: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 18: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 19: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 20: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 21: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 22: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 23: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 24: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 25: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 26: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 27: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 28: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 29: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 30: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 31: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 32: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 33: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 34: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 35: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 36: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 37: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 38: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 39: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+- Step 40: Detailed instruction for qa smoke tests (replace placeholders, verify logs, rollback path).
+
+## Go-live checklist
+- Step 1: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 2: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 3: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 4: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 5: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 6: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 7: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 8: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 9: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 10: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 11: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 12: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 13: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 14: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 15: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 16: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 17: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 18: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 19: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 20: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 21: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 22: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 23: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 24: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 25: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 26: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 27: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 28: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 29: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 30: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 31: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 32: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 33: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 34: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 35: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 36: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 37: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 38: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 39: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).
+- Step 40: Detailed instruction for go-live checklist (replace placeholders, verify logs, rollback path).

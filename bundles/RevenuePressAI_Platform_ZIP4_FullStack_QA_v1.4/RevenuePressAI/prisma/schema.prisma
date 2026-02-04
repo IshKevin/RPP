@@ -1,0 +1,79 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Author {
+  id            String   @id @default(cuid())
+  displayName   String
+  email         String   @unique
+  bio           String?
+  website       String?
+  languages     String   @default("en")
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+  books         Book[]
+}
+
+model Book {
+  id            String   @id @default(cuid())
+  title         String
+  subtitle      String?
+  language      String
+  description   String
+  categories    String
+  coverImageUrl String?
+  keywords      String   @default("")
+  hashtags      String   @default("")
+  status        BookStatus @default(DRAFT)
+  authorId      String
+  author        Author   @relation(fields: [authorId], references: [id])
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+  assets        Asset[]
+  metrics       Metric[]
+}
+
+enum BookStatus {
+  DRAFT
+  SUBMITTED
+  APPROVED
+  REJECTED
+  PUBLISHED
+}
+
+model Asset {
+  id        String   @id @default(cuid())
+  bookId    String
+  type      AssetType
+  language  String
+  content   String
+  createdAt DateTime @default(now())
+  book      Book     @relation(fields: [bookId], references: [id])
+}
+
+enum AssetType {
+  KEYWORDS
+  HASHTAGS
+  COPY
+  ADSCRIPT
+  IMAGE_BRIEF
+  VIDEO_BRIEF
+  CTA
+}
+
+model Metric {
+  id        String   @id @default(cuid())
+  bookId    String
+  channel   String
+  impressions Int @default(0)
+  clicks      Int @default(0)
+  conversions Int @default(0)
+  revenueCents Int @default(0)
+  createdAt DateTime @default(now())
+  book      Book     @relation(fields: [bookId], references: [id])
+}

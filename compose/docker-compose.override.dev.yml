@@ -1,0 +1,13 @@
+# Development overrides (optional)
+services:
+  web:
+    environment:
+      FLASK_ENV: development
+      DEBUG: "1"
+    volumes:
+      - ./app:/app:rw
+  engine:
+    environment:
+      ENV: development
+    volumes:
+      - ./engine:/app:rw

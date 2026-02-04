@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="row space">
+  <h1>Dashboard</h1>
+  <div>
+    <a class="btn" href="{{ url_for('author.new_book') }}">+ New Book</a>
+    <a class="btn ghost" href="{{ url_for('author.profile') }}">Profile</a>
+    <a class="btn ghost" href="{{ url_for('author.payments') }}">Payments</a>
+  </div>
+</div>
+
+<div class="grid">
+  {% for b in books %}
+    <a class="card link" href="{{ url_for('author.book_view', book_id=b['id']) }}">
+      <h3>{{ b['title'] }}</h3>
+      <p class="muted">{{ b['category'] or '—' }} • {{ b['language']|upper }} • {{ b['status'] }}</p>
+      <div class="stats">👁 {{ b['views'] }} • ❤ {{ b['likes'] }} • ↗ {{ b['shares'] }}</div>
+    </a>
+  {% else %}
+    <div class="card">No books yet. Create one.</div>
+  {% endfor %}
+</div>
+{% endblock %}

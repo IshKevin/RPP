@@ -1,0 +1,13 @@
+RevenuePressAI/
+RevenuePressAI_Stack/
+RevenuePressAI_ZIP7_Launch_Polish_v1.4/
+rp_zip3_pack/
+zip5/
+RevenuePress_AI_Full_Requirements_Specification_v1.1.docx
+RevenuePress_AI_Master_Platform_Specification_Final.docx
+venv/
+__pycache__/
+*.pyc
+.git
+.gitignore
+.env

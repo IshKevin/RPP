@@ -1,0 +1,30 @@
+{
+  "info": {
+    "name": "RevenuePress AI API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Engine Health",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/engine/health"
+      }
+    },
+    {
+      "name": "Generate Launch Pack",
+      "request": {
+        "method": "POST",
+        "header": [{"key":"Content-Type","value":"application/json"}],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"title\": \"My Book\",\n  \"language\": \"en\",\n  \"amazon_url\": \"https://amazon.example\"\n}"
+        },
+        "url": "{{baseUrl}}/engine/v1/launch-pack"
+      }
+    }
+  ],
+  "variable": [
+    {"key": "baseUrl", "value": "http://localhost"}
+  ]
+}

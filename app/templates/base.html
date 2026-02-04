@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="{{ g.lang }}">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>{{ g.t('hero_title') }} — RevenuePress AI</title>
+  <meta name="description" content="{{ g.t('hero_sub') }}"/>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/app.css') }}"/>
+</head>
+<body>
+  <header class="topbar">
+    <div class="container row">
+      <div class="brand">
+        <a class="brandlink" href="{{ url_for('public.home') }}">RevenuePress AI</a>
+        <span class="tagline">{{ g.t('hero_title') }}</span>
+      </div>
+      <nav class="nav">
+        <a href="{{ url_for('public.home') }}">{{ g.t('nav_home') }}</a>
+        <a href="{{ url_for('public.features') }}">{{ g.t('nav_features') }}</a>
+        <a href="{{ url_for('public.pricing') }}">{{ g.t('nav_pricing') }}</a>
+        {% if session.get('user_id') %}
+          <a href="{{ url_for('author.dashboard') }}">{{ g.t('nav_dashboard') }}</a>
+          {% if session.get('role') == 'admin' %}
+            <a href="{{ url_for('admin.index') }}">{{ g.t('nav_admin') }}</a>
+          {% endif %}
+          <a href="{{ url_for('auth.logout') }}">Logout</a>
+        {% else %}
+          <a href="{{ url_for('auth.login') }}">{{ g.t('nav_login') }}</a>
+          <a class="btn" href="{{ url_for('auth.register') }}">{{ g.t('nav_register') }}</a>
+        {% endif %}
+        <a class="lang" href="{{ request.path }}?lang={{ g.other_lang }}">{{ g.other_lang_label }}</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+        <div class="flashwrap">
+          {% for cat,msg in messages %}
+            <div class="flash flash-{{ cat }}">{{ msg }}</div>
+          {% endfor %}
+        </div>
+      {% endif %}
+    {% endwith %}
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer class="footer">
+    <div class="container row footerrow">
+      <div>© {{ 2026 }} RevenuePress AI</div>
+      <div class="footlinks">
+        <a href="{{ url_for('public.privacy') }}">{{ g.t('footer_privacy') }}</a>
+        <a href="{{ url_for('public.confidentiality') }}">{{ g.t('footer_conf') }}</a>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

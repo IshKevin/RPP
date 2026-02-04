@@ -1,0 +1,17 @@
+version: '3.9'
+services:
+  web:
+    build:
+      context: ..
+      dockerfile: deployment/Dockerfile
+    env_file:
+      - .env
+    ports:
+      - "8000:8000"
+    volumes:
+      - ../app:/app
+      - rp_data:/app/instance
+    restart: unless-stopped
+
+volumes:
+  rp_data:

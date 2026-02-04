@@ -1,0 +1,7952 @@
+[
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 1",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword1_1",
+      "keyword1_2",
+      "keyword1_3",
+      "keyword1_4",
+      "keyword1_5",
+      "keyword1_6",
+      "keyword1_7",
+      "keyword1_8",
+      "keyword1_9",
+      "keyword1_10",
+      "keyword1_11",
+      "keyword1_12",
+      "keyword1_13",
+      "keyword1_14",
+      "keyword1_15",
+      "keyword1_16",
+      "keyword1_17",
+      "keyword1_18",
+      "keyword1_19",
+      "keyword1_20",
+      "keyword1_21",
+      "keyword1_22",
+      "keyword1_23",
+      "keyword1_24",
+      "keyword1_25",
+      "keyword1_26",
+      "keyword1_27",
+      "keyword1_28",
+      "keyword1_29",
+      "keyword1_30",
+      "keyword1_31",
+      "keyword1_32",
+      "keyword1_33",
+      "keyword1_34",
+      "keyword1_35",
+      "keyword1_36",
+      "keyword1_37",
+      "keyword1_38",
+      "keyword1_39",
+      "keyword1_40"
+    ],
+    "hashtags": [
+      "#tag1_1",
+      "#tag1_2",
+      "#tag1_3",
+      "#tag1_4",
+      "#tag1_5",
+      "#tag1_6",
+      "#tag1_7",
+      "#tag1_8",
+      "#tag1_9",
+      "#tag1_10",
+      "#tag1_11",
+      "#tag1_12",
+      "#tag1_13",
+      "#tag1_14",
+      "#tag1_15",
+      "#tag1_16",
+      "#tag1_17",
+      "#tag1_18",
+      "#tag1_19",
+      "#tag1_20",
+      "#tag1_21",
+      "#tag1_22",
+      "#tag1_23",
+      "#tag1_24",
+      "#tag1_25",
+      "#tag1_26",
+      "#tag1_27",
+      "#tag1_28",
+      "#tag1_29",
+      "#tag1_30",
+      "#tag1_31",
+      "#tag1_32",
+      "#tag1_33",
+      "#tag1_34",
+      "#tag1_35",
+      "#tag1_36",
+      "#tag1_37",
+      "#tag1_38",
+      "#tag1_39",
+      "#tag1_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 2",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword2_1",
+      "keyword2_2",
+      "keyword2_3",
+      "keyword2_4",
+      "keyword2_5",
+      "keyword2_6",
+      "keyword2_7",
+      "keyword2_8",
+      "keyword2_9",
+      "keyword2_10",
+      "keyword2_11",
+      "keyword2_12",
+      "keyword2_13",
+      "keyword2_14",
+      "keyword2_15",
+      "keyword2_16",
+      "keyword2_17",
+      "keyword2_18",
+      "keyword2_19",
+      "keyword2_20",
+      "keyword2_21",
+      "keyword2_22",
+      "keyword2_23",
+      "keyword2_24",
+      "keyword2_25",
+      "keyword2_26",
+      "keyword2_27",
+      "keyword2_28",
+      "keyword2_29",
+      "keyword2_30",
+      "keyword2_31",
+      "keyword2_32",
+      "keyword2_33",
+      "keyword2_34",
+      "keyword2_35",
+      "keyword2_36",
+      "keyword2_37",
+      "keyword2_38",
+      "keyword2_39",
+      "keyword2_40"
+    ],
+    "hashtags": [
+      "#tag2_1",
+      "#tag2_2",
+      "#tag2_3",
+      "#tag2_4",
+      "#tag2_5",
+      "#tag2_6",
+      "#tag2_7",
+      "#tag2_8",
+      "#tag2_9",
+      "#tag2_10",
+      "#tag2_11",
+      "#tag2_12",
+      "#tag2_13",
+      "#tag2_14",
+      "#tag2_15",
+      "#tag2_16",
+      "#tag2_17",
+      "#tag2_18",
+      "#tag2_19",
+      "#tag2_20",
+      "#tag2_21",
+      "#tag2_22",
+      "#tag2_23",
+      "#tag2_24",
+      "#tag2_25",
+      "#tag2_26",
+      "#tag2_27",
+      "#tag2_28",
+      "#tag2_29",
+      "#tag2_30",
+      "#tag2_31",
+      "#tag2_32",
+      "#tag2_33",
+      "#tag2_34",
+      "#tag2_35",
+      "#tag2_36",
+      "#tag2_37",
+      "#tag2_38",
+      "#tag2_39",
+      "#tag2_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 3",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword3_1",
+      "keyword3_2",
+      "keyword3_3",
+      "keyword3_4",
+      "keyword3_5",
+      "keyword3_6",
+      "keyword3_7",
+      "keyword3_8",
+      "keyword3_9",
+      "keyword3_10",
+      "keyword3_11",
+      "keyword3_12",
+      "keyword3_13",
+      "keyword3_14",
+      "keyword3_15",
+      "keyword3_16",
+      "keyword3_17",
+      "keyword3_18",
+      "keyword3_19",
+      "keyword3_20",
+      "keyword3_21",
+      "keyword3_22",
+      "keyword3_23",
+      "keyword3_24",
+      "keyword3_25",
+      "keyword3_26",
+      "keyword3_27",
+      "keyword3_28",
+      "keyword3_29",
+      "keyword3_30",
+      "keyword3_31",
+      "keyword3_32",
+      "keyword3_33",
+      "keyword3_34",
+      "keyword3_35",
+      "keyword3_36",
+      "keyword3_37",
+      "keyword3_38",
+      "keyword3_39",
+      "keyword3_40"
+    ],
+    "hashtags": [
+      "#tag3_1",
+      "#tag3_2",
+      "#tag3_3",
+      "#tag3_4",
+      "#tag3_5",
+      "#tag3_6",
+      "#tag3_7",
+      "#tag3_8",
+      "#tag3_9",
+      "#tag3_10",
+      "#tag3_11",
+      "#tag3_12",
+      "#tag3_13",
+      "#tag3_14",
+      "#tag3_15",
+      "#tag3_16",
+      "#tag3_17",
+      "#tag3_18",
+      "#tag3_19",
+      "#tag3_20",
+      "#tag3_21",
+      "#tag3_22",
+      "#tag3_23",
+      "#tag3_24",
+      "#tag3_25",
+      "#tag3_26",
+      "#tag3_27",
+      "#tag3_28",
+      "#tag3_29",
+      "#tag3_30",
+      "#tag3_31",
+      "#tag3_32",
+      "#tag3_33",
+      "#tag3_34",
+      "#tag3_35",
+      "#tag3_36",
+      "#tag3_37",
+      "#tag3_38",
+      "#tag3_39",
+      "#tag3_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 4",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword4_1",
+      "keyword4_2",
+      "keyword4_3",
+      "keyword4_4",
+      "keyword4_5",
+      "keyword4_6",
+      "keyword4_7",
+      "keyword4_8",
+      "keyword4_9",
+      "keyword4_10",
+      "keyword4_11",
+      "keyword4_12",
+      "keyword4_13",
+      "keyword4_14",
+      "keyword4_15",
+      "keyword4_16",
+      "keyword4_17",
+      "keyword4_18",
+      "keyword4_19",
+      "keyword4_20",
+      "keyword4_21",
+      "keyword4_22",
+      "keyword4_23",
+      "keyword4_24",
+      "keyword4_25",
+      "keyword4_26",
+      "keyword4_27",
+      "keyword4_28",
+      "keyword4_29",
+      "keyword4_30",
+      "keyword4_31",
+      "keyword4_32",
+      "keyword4_33",
+      "keyword4_34",
+      "keyword4_35",
+      "keyword4_36",
+      "keyword4_37",
+      "keyword4_38",
+      "keyword4_39",
+      "keyword4_40"
+    ],
+    "hashtags": [
+      "#tag4_1",
+      "#tag4_2",
+      "#tag4_3",
+      "#tag4_4",
+      "#tag4_5",
+      "#tag4_6",
+      "#tag4_7",
+      "#tag4_8",
+      "#tag4_9",
+      "#tag4_10",
+      "#tag4_11",
+      "#tag4_12",
+      "#tag4_13",
+      "#tag4_14",
+      "#tag4_15",
+      "#tag4_16",
+      "#tag4_17",
+      "#tag4_18",
+      "#tag4_19",
+      "#tag4_20",
+      "#tag4_21",
+      "#tag4_22",
+      "#tag4_23",
+      "#tag4_24",
+      "#tag4_25",
+      "#tag4_26",
+      "#tag4_27",
+      "#tag4_28",
+      "#tag4_29",
+      "#tag4_30",
+      "#tag4_31",
+      "#tag4_32",
+      "#tag4_33",
+      "#tag4_34",
+      "#tag4_35",
+      "#tag4_36",
+      "#tag4_37",
+      "#tag4_38",
+      "#tag4_39",
+      "#tag4_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 5",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword5_1",
+      "keyword5_2",
+      "keyword5_3",
+      "keyword5_4",
+      "keyword5_5",
+      "keyword5_6",
+      "keyword5_7",
+      "keyword5_8",
+      "keyword5_9",
+      "keyword5_10",
+      "keyword5_11",
+      "keyword5_12",
+      "keyword5_13",
+      "keyword5_14",
+      "keyword5_15",
+      "keyword5_16",
+      "keyword5_17",
+      "keyword5_18",
+      "keyword5_19",
+      "keyword5_20",
+      "keyword5_21",
+      "keyword5_22",
+      "keyword5_23",
+      "keyword5_24",
+      "keyword5_25",
+      "keyword5_26",
+      "keyword5_27",
+      "keyword5_28",
+      "keyword5_29",
+      "keyword5_30",
+      "keyword5_31",
+      "keyword5_32",
+      "keyword5_33",
+      "keyword5_34",
+      "keyword5_35",
+      "keyword5_36",
+      "keyword5_37",
+      "keyword5_38",
+      "keyword5_39",
+      "keyword5_40"
+    ],
+    "hashtags": [
+      "#tag5_1",
+      "#tag5_2",
+      "#tag5_3",
+      "#tag5_4",
+      "#tag5_5",
+      "#tag5_6",
+      "#tag5_7",
+      "#tag5_8",
+      "#tag5_9",
+      "#tag5_10",
+      "#tag5_11",
+      "#tag5_12",
+      "#tag5_13",
+      "#tag5_14",
+      "#tag5_15",
+      "#tag5_16",
+      "#tag5_17",
+      "#tag5_18",
+      "#tag5_19",
+      "#tag5_20",
+      "#tag5_21",
+      "#tag5_22",
+      "#tag5_23",
+      "#tag5_24",
+      "#tag5_25",
+      "#tag5_26",
+      "#tag5_27",
+      "#tag5_28",
+      "#tag5_29",
+      "#tag5_30",
+      "#tag5_31",
+      "#tag5_32",
+      "#tag5_33",
+      "#tag5_34",
+      "#tag5_35",
+      "#tag5_36",
+      "#tag5_37",
+      "#tag5_38",
+      "#tag5_39",
+      "#tag5_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 6",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword6_1",
+      "keyword6_2",
+      "keyword6_3",
+      "keyword6_4",
+      "keyword6_5",
+      "keyword6_6",
+      "keyword6_7",
+      "keyword6_8",
+      "keyword6_9",
+      "keyword6_10",
+      "keyword6_11",
+      "keyword6_12",
+      "keyword6_13",
+      "keyword6_14",
+      "keyword6_15",
+      "keyword6_16",
+      "keyword6_17",
+      "keyword6_18",
+      "keyword6_19",
+      "keyword6_20",
+      "keyword6_21",
+      "keyword6_22",
+      "keyword6_23",
+      "keyword6_24",
+      "keyword6_25",
+      "keyword6_26",
+      "keyword6_27",
+      "keyword6_28",
+      "keyword6_29",
+      "keyword6_30",
+      "keyword6_31",
+      "keyword6_32",
+      "keyword6_33",
+      "keyword6_34",
+      "keyword6_35",
+      "keyword6_36",
+      "keyword6_37",
+      "keyword6_38",
+      "keyword6_39",
+      "keyword6_40"
+    ],
+    "hashtags": [
+      "#tag6_1",
+      "#tag6_2",
+      "#tag6_3",
+      "#tag6_4",
+      "#tag6_5",
+      "#tag6_6",
+      "#tag6_7",
+      "#tag6_8",
+      "#tag6_9",
+      "#tag6_10",
+      "#tag6_11",
+      "#tag6_12",
+      "#tag6_13",
+      "#tag6_14",
+      "#tag6_15",
+      "#tag6_16",
+      "#tag6_17",
+      "#tag6_18",
+      "#tag6_19",
+      "#tag6_20",
+      "#tag6_21",
+      "#tag6_22",
+      "#tag6_23",
+      "#tag6_24",
+      "#tag6_25",
+      "#tag6_26",
+      "#tag6_27",
+      "#tag6_28",
+      "#tag6_29",
+      "#tag6_30",
+      "#tag6_31",
+      "#tag6_32",
+      "#tag6_33",
+      "#tag6_34",
+      "#tag6_35",
+      "#tag6_36",
+      "#tag6_37",
+      "#tag6_38",
+      "#tag6_39",
+      "#tag6_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 7",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword7_1",
+      "keyword7_2",
+      "keyword7_3",
+      "keyword7_4",
+      "keyword7_5",
+      "keyword7_6",
+      "keyword7_7",
+      "keyword7_8",
+      "keyword7_9",
+      "keyword7_10",
+      "keyword7_11",
+      "keyword7_12",
+      "keyword7_13",
+      "keyword7_14",
+      "keyword7_15",
+      "keyword7_16",
+      "keyword7_17",
+      "keyword7_18",
+      "keyword7_19",
+      "keyword7_20",
+      "keyword7_21",
+      "keyword7_22",
+      "keyword7_23",
+      "keyword7_24",
+      "keyword7_25",
+      "keyword7_26",
+      "keyword7_27",
+      "keyword7_28",
+      "keyword7_29",
+      "keyword7_30",
+      "keyword7_31",
+      "keyword7_32",
+      "keyword7_33",
+      "keyword7_34",
+      "keyword7_35",
+      "keyword7_36",
+      "keyword7_37",
+      "keyword7_38",
+      "keyword7_39",
+      "keyword7_40"
+    ],
+    "hashtags": [
+      "#tag7_1",
+      "#tag7_2",
+      "#tag7_3",
+      "#tag7_4",
+      "#tag7_5",
+      "#tag7_6",
+      "#tag7_7",
+      "#tag7_8",
+      "#tag7_9",
+      "#tag7_10",
+      "#tag7_11",
+      "#tag7_12",
+      "#tag7_13",
+      "#tag7_14",
+      "#tag7_15",
+      "#tag7_16",
+      "#tag7_17",
+      "#tag7_18",
+      "#tag7_19",
+      "#tag7_20",
+      "#tag7_21",
+      "#tag7_22",
+      "#tag7_23",
+      "#tag7_24",
+      "#tag7_25",
+      "#tag7_26",
+      "#tag7_27",
+      "#tag7_28",
+      "#tag7_29",
+      "#tag7_30",
+      "#tag7_31",
+      "#tag7_32",
+      "#tag7_33",
+      "#tag7_34",
+      "#tag7_35",
+      "#tag7_36",
+      "#tag7_37",
+      "#tag7_38",
+      "#tag7_39",
+      "#tag7_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 8",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword8_1",
+      "keyword8_2",
+      "keyword8_3",
+      "keyword8_4",
+      "keyword8_5",
+      "keyword8_6",
+      "keyword8_7",
+      "keyword8_8",
+      "keyword8_9",
+      "keyword8_10",
+      "keyword8_11",
+      "keyword8_12",
+      "keyword8_13",
+      "keyword8_14",
+      "keyword8_15",
+      "keyword8_16",
+      "keyword8_17",
+      "keyword8_18",
+      "keyword8_19",
+      "keyword8_20",
+      "keyword8_21",
+      "keyword8_22",
+      "keyword8_23",
+      "keyword8_24",
+      "keyword8_25",
+      "keyword8_26",
+      "keyword8_27",
+      "keyword8_28",
+      "keyword8_29",
+      "keyword8_30",
+      "keyword8_31",
+      "keyword8_32",
+      "keyword8_33",
+      "keyword8_34",
+      "keyword8_35",
+      "keyword8_36",
+      "keyword8_37",
+      "keyword8_38",
+      "keyword8_39",
+      "keyword8_40"
+    ],
+    "hashtags": [
+      "#tag8_1",
+      "#tag8_2",
+      "#tag8_3",
+      "#tag8_4",
+      "#tag8_5",
+      "#tag8_6",
+      "#tag8_7",
+      "#tag8_8",
+      "#tag8_9",
+      "#tag8_10",
+      "#tag8_11",
+      "#tag8_12",
+      "#tag8_13",
+      "#tag8_14",
+      "#tag8_15",
+      "#tag8_16",
+      "#tag8_17",
+      "#tag8_18",
+      "#tag8_19",
+      "#tag8_20",
+      "#tag8_21",
+      "#tag8_22",
+      "#tag8_23",
+      "#tag8_24",
+      "#tag8_25",
+      "#tag8_26",
+      "#tag8_27",
+      "#tag8_28",
+      "#tag8_29",
+      "#tag8_30",
+      "#tag8_31",
+      "#tag8_32",
+      "#tag8_33",
+      "#tag8_34",
+      "#tag8_35",
+      "#tag8_36",
+      "#tag8_37",
+      "#tag8_38",
+      "#tag8_39",
+      "#tag8_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 9",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword9_1",
+      "keyword9_2",
+      "keyword9_3",
+      "keyword9_4",
+      "keyword9_5",
+      "keyword9_6",
+      "keyword9_7",
+      "keyword9_8",
+      "keyword9_9",
+      "keyword9_10",
+      "keyword9_11",
+      "keyword9_12",
+      "keyword9_13",
+      "keyword9_14",
+      "keyword9_15",
+      "keyword9_16",
+      "keyword9_17",
+      "keyword9_18",
+      "keyword9_19",
+      "keyword9_20",
+      "keyword9_21",
+      "keyword9_22",
+      "keyword9_23",
+      "keyword9_24",
+      "keyword9_25",
+      "keyword9_26",
+      "keyword9_27",
+      "keyword9_28",
+      "keyword9_29",
+      "keyword9_30",
+      "keyword9_31",
+      "keyword9_32",
+      "keyword9_33",
+      "keyword9_34",
+      "keyword9_35",
+      "keyword9_36",
+      "keyword9_37",
+      "keyword9_38",
+      "keyword9_39",
+      "keyword9_40"
+    ],
+    "hashtags": [
+      "#tag9_1",
+      "#tag9_2",
+      "#tag9_3",
+      "#tag9_4",
+      "#tag9_5",
+      "#tag9_6",
+      "#tag9_7",
+      "#tag9_8",
+      "#tag9_9",
+      "#tag9_10",
+      "#tag9_11",
+      "#tag9_12",
+      "#tag9_13",
+      "#tag9_14",
+      "#tag9_15",
+      "#tag9_16",
+      "#tag9_17",
+      "#tag9_18",
+      "#tag9_19",
+      "#tag9_20",
+      "#tag9_21",
+      "#tag9_22",
+      "#tag9_23",
+      "#tag9_24",
+      "#tag9_25",
+      "#tag9_26",
+      "#tag9_27",
+      "#tag9_28",
+      "#tag9_29",
+      "#tag9_30",
+      "#tag9_31",
+      "#tag9_32",
+      "#tag9_33",
+      "#tag9_34",
+      "#tag9_35",
+      "#tag9_36",
+      "#tag9_37",
+      "#tag9_38",
+      "#tag9_39",
+      "#tag9_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 10",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword10_1",
+      "keyword10_2",
+      "keyword10_3",
+      "keyword10_4",
+      "keyword10_5",
+      "keyword10_6",
+      "keyword10_7",
+      "keyword10_8",
+      "keyword10_9",
+      "keyword10_10",
+      "keyword10_11",
+      "keyword10_12",
+      "keyword10_13",
+      "keyword10_14",
+      "keyword10_15",
+      "keyword10_16",
+      "keyword10_17",
+      "keyword10_18",
+      "keyword10_19",
+      "keyword10_20",
+      "keyword10_21",
+      "keyword10_22",
+      "keyword10_23",
+      "keyword10_24",
+      "keyword10_25",
+      "keyword10_26",
+      "keyword10_27",
+      "keyword10_28",
+      "keyword10_29",
+      "keyword10_30",
+      "keyword10_31",
+      "keyword10_32",
+      "keyword10_33",
+      "keyword10_34",
+      "keyword10_35",
+      "keyword10_36",
+      "keyword10_37",
+      "keyword10_38",
+      "keyword10_39",
+      "keyword10_40"
+    ],
+    "hashtags": [
+      "#tag10_1",
+      "#tag10_2",
+      "#tag10_3",
+      "#tag10_4",
+      "#tag10_5",
+      "#tag10_6",
+      "#tag10_7",
+      "#tag10_8",
+      "#tag10_9",
+      "#tag10_10",
+      "#tag10_11",
+      "#tag10_12",
+      "#tag10_13",
+      "#tag10_14",
+      "#tag10_15",
+      "#tag10_16",
+      "#tag10_17",
+      "#tag10_18",
+      "#tag10_19",
+      "#tag10_20",
+      "#tag10_21",
+      "#tag10_22",
+      "#tag10_23",
+      "#tag10_24",
+      "#tag10_25",
+      "#tag10_26",
+      "#tag10_27",
+      "#tag10_28",
+      "#tag10_29",
+      "#tag10_30",
+      "#tag10_31",
+      "#tag10_32",
+      "#tag10_33",
+      "#tag10_34",
+      "#tag10_35",
+      "#tag10_36",
+      "#tag10_37",
+      "#tag10_38",
+      "#tag10_39",
+      "#tag10_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 11",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword11_1",
+      "keyword11_2",
+      "keyword11_3",
+      "keyword11_4",
+      "keyword11_5",
+      "keyword11_6",
+      "keyword11_7",
+      "keyword11_8",
+      "keyword11_9",
+      "keyword11_10",
+      "keyword11_11",
+      "keyword11_12",
+      "keyword11_13",
+      "keyword11_14",
+      "keyword11_15",
+      "keyword11_16",
+      "keyword11_17",
+      "keyword11_18",
+      "keyword11_19",
+      "keyword11_20",
+      "keyword11_21",
+      "keyword11_22",
+      "keyword11_23",
+      "keyword11_24",
+      "keyword11_25",
+      "keyword11_26",
+      "keyword11_27",
+      "keyword11_28",
+      "keyword11_29",
+      "keyword11_30",
+      "keyword11_31",
+      "keyword11_32",
+      "keyword11_33",
+      "keyword11_34",
+      "keyword11_35",
+      "keyword11_36",
+      "keyword11_37",
+      "keyword11_38",
+      "keyword11_39",
+      "keyword11_40"
+    ],
+    "hashtags": [
+      "#tag11_1",
+      "#tag11_2",
+      "#tag11_3",
+      "#tag11_4",
+      "#tag11_5",
+      "#tag11_6",
+      "#tag11_7",
+      "#tag11_8",
+      "#tag11_9",
+      "#tag11_10",
+      "#tag11_11",
+      "#tag11_12",
+      "#tag11_13",
+      "#tag11_14",
+      "#tag11_15",
+      "#tag11_16",
+      "#tag11_17",
+      "#tag11_18",
+      "#tag11_19",
+      "#tag11_20",
+      "#tag11_21",
+      "#tag11_22",
+      "#tag11_23",
+      "#tag11_24",
+      "#tag11_25",
+      "#tag11_26",
+      "#tag11_27",
+      "#tag11_28",
+      "#tag11_29",
+      "#tag11_30",
+      "#tag11_31",
+      "#tag11_32",
+      "#tag11_33",
+      "#tag11_34",
+      "#tag11_35",
+      "#tag11_36",
+      "#tag11_37",
+      "#tag11_38",
+      "#tag11_39",
+      "#tag11_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 12",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword12_1",
+      "keyword12_2",
+      "keyword12_3",
+      "keyword12_4",
+      "keyword12_5",
+      "keyword12_6",
+      "keyword12_7",
+      "keyword12_8",
+      "keyword12_9",
+      "keyword12_10",
+      "keyword12_11",
+      "keyword12_12",
+      "keyword12_13",
+      "keyword12_14",
+      "keyword12_15",
+      "keyword12_16",
+      "keyword12_17",
+      "keyword12_18",
+      "keyword12_19",
+      "keyword12_20",
+      "keyword12_21",
+      "keyword12_22",
+      "keyword12_23",
+      "keyword12_24",
+      "keyword12_25",
+      "keyword12_26",
+      "keyword12_27",
+      "keyword12_28",
+      "keyword12_29",
+      "keyword12_30",
+      "keyword12_31",
+      "keyword12_32",
+      "keyword12_33",
+      "keyword12_34",
+      "keyword12_35",
+      "keyword12_36",
+      "keyword12_37",
+      "keyword12_38",
+      "keyword12_39",
+      "keyword12_40"
+    ],
+    "hashtags": [
+      "#tag12_1",
+      "#tag12_2",
+      "#tag12_3",
+      "#tag12_4",
+      "#tag12_5",
+      "#tag12_6",
+      "#tag12_7",
+      "#tag12_8",
+      "#tag12_9",
+      "#tag12_10",
+      "#tag12_11",
+      "#tag12_12",
+      "#tag12_13",
+      "#tag12_14",
+      "#tag12_15",
+      "#tag12_16",
+      "#tag12_17",
+      "#tag12_18",
+      "#tag12_19",
+      "#tag12_20",
+      "#tag12_21",
+      "#tag12_22",
+      "#tag12_23",
+      "#tag12_24",
+      "#tag12_25",
+      "#tag12_26",
+      "#tag12_27",
+      "#tag12_28",
+      "#tag12_29",
+      "#tag12_30",
+      "#tag12_31",
+      "#tag12_32",
+      "#tag12_33",
+      "#tag12_34",
+      "#tag12_35",
+      "#tag12_36",
+      "#tag12_37",
+      "#tag12_38",
+      "#tag12_39",
+      "#tag12_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 13",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword13_1",
+      "keyword13_2",
+      "keyword13_3",
+      "keyword13_4",
+      "keyword13_5",
+      "keyword13_6",
+      "keyword13_7",
+      "keyword13_8",
+      "keyword13_9",
+      "keyword13_10",
+      "keyword13_11",
+      "keyword13_12",
+      "keyword13_13",
+      "keyword13_14",
+      "keyword13_15",
+      "keyword13_16",
+      "keyword13_17",
+      "keyword13_18",
+      "keyword13_19",
+      "keyword13_20",
+      "keyword13_21",
+      "keyword13_22",
+      "keyword13_23",
+      "keyword13_24",
+      "keyword13_25",
+      "keyword13_26",
+      "keyword13_27",
+      "keyword13_28",
+      "keyword13_29",
+      "keyword13_30",
+      "keyword13_31",
+      "keyword13_32",
+      "keyword13_33",
+      "keyword13_34",
+      "keyword13_35",
+      "keyword13_36",
+      "keyword13_37",
+      "keyword13_38",
+      "keyword13_39",
+      "keyword13_40"
+    ],
+    "hashtags": [
+      "#tag13_1",
+      "#tag13_2",
+      "#tag13_3",
+      "#tag13_4",
+      "#tag13_5",
+      "#tag13_6",
+      "#tag13_7",
+      "#tag13_8",
+      "#tag13_9",
+      "#tag13_10",
+      "#tag13_11",
+      "#tag13_12",
+      "#tag13_13",
+      "#tag13_14",
+      "#tag13_15",
+      "#tag13_16",
+      "#tag13_17",
+      "#tag13_18",
+      "#tag13_19",
+      "#tag13_20",
+      "#tag13_21",
+      "#tag13_22",
+      "#tag13_23",
+      "#tag13_24",
+      "#tag13_25",
+      "#tag13_26",
+      "#tag13_27",
+      "#tag13_28",
+      "#tag13_29",
+      "#tag13_30",
+      "#tag13_31",
+      "#tag13_32",
+      "#tag13_33",
+      "#tag13_34",
+      "#tag13_35",
+      "#tag13_36",
+      "#tag13_37",
+      "#tag13_38",
+      "#tag13_39",
+      "#tag13_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 14",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword14_1",
+      "keyword14_2",
+      "keyword14_3",
+      "keyword14_4",
+      "keyword14_5",
+      "keyword14_6",
+      "keyword14_7",
+      "keyword14_8",
+      "keyword14_9",
+      "keyword14_10",
+      "keyword14_11",
+      "keyword14_12",
+      "keyword14_13",
+      "keyword14_14",
+      "keyword14_15",
+      "keyword14_16",
+      "keyword14_17",
+      "keyword14_18",
+      "keyword14_19",
+      "keyword14_20",
+      "keyword14_21",
+      "keyword14_22",
+      "keyword14_23",
+      "keyword14_24",
+      "keyword14_25",
+      "keyword14_26",
+      "keyword14_27",
+      "keyword14_28",
+      "keyword14_29",
+      "keyword14_30",
+      "keyword14_31",
+      "keyword14_32",
+      "keyword14_33",
+      "keyword14_34",
+      "keyword14_35",
+      "keyword14_36",
+      "keyword14_37",
+      "keyword14_38",
+      "keyword14_39",
+      "keyword14_40"
+    ],
+    "hashtags": [
+      "#tag14_1",
+      "#tag14_2",
+      "#tag14_3",
+      "#tag14_4",
+      "#tag14_5",
+      "#tag14_6",
+      "#tag14_7",
+      "#tag14_8",
+      "#tag14_9",
+      "#tag14_10",
+      "#tag14_11",
+      "#tag14_12",
+      "#tag14_13",
+      "#tag14_14",
+      "#tag14_15",
+      "#tag14_16",
+      "#tag14_17",
+      "#tag14_18",
+      "#tag14_19",
+      "#tag14_20",
+      "#tag14_21",
+      "#tag14_22",
+      "#tag14_23",
+      "#tag14_24",
+      "#tag14_25",
+      "#tag14_26",
+      "#tag14_27",
+      "#tag14_28",
+      "#tag14_29",
+      "#tag14_30",
+      "#tag14_31",
+      "#tag14_32",
+      "#tag14_33",
+      "#tag14_34",
+      "#tag14_35",
+      "#tag14_36",
+      "#tag14_37",
+      "#tag14_38",
+      "#tag14_39",
+      "#tag14_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 15",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword15_1",
+      "keyword15_2",
+      "keyword15_3",
+      "keyword15_4",
+      "keyword15_5",
+      "keyword15_6",
+      "keyword15_7",
+      "keyword15_8",
+      "keyword15_9",
+      "keyword15_10",
+      "keyword15_11",
+      "keyword15_12",
+      "keyword15_13",
+      "keyword15_14",
+      "keyword15_15",
+      "keyword15_16",
+      "keyword15_17",
+      "keyword15_18",
+      "keyword15_19",
+      "keyword15_20",
+      "keyword15_21",
+      "keyword15_22",
+      "keyword15_23",
+      "keyword15_24",
+      "keyword15_25",
+      "keyword15_26",
+      "keyword15_27",
+      "keyword15_28",
+      "keyword15_29",
+      "keyword15_30",
+      "keyword15_31",
+      "keyword15_32",
+      "keyword15_33",
+      "keyword15_34",
+      "keyword15_35",
+      "keyword15_36",
+      "keyword15_37",
+      "keyword15_38",
+      "keyword15_39",
+      "keyword15_40"
+    ],
+    "hashtags": [
+      "#tag15_1",
+      "#tag15_2",
+      "#tag15_3",
+      "#tag15_4",
+      "#tag15_5",
+      "#tag15_6",
+      "#tag15_7",
+      "#tag15_8",
+      "#tag15_9",
+      "#tag15_10",
+      "#tag15_11",
+      "#tag15_12",
+      "#tag15_13",
+      "#tag15_14",
+      "#tag15_15",
+      "#tag15_16",
+      "#tag15_17",
+      "#tag15_18",
+      "#tag15_19",
+      "#tag15_20",
+      "#tag15_21",
+      "#tag15_22",
+      "#tag15_23",
+      "#tag15_24",
+      "#tag15_25",
+      "#tag15_26",
+      "#tag15_27",
+      "#tag15_28",
+      "#tag15_29",
+      "#tag15_30",
+      "#tag15_31",
+      "#tag15_32",
+      "#tag15_33",
+      "#tag15_34",
+      "#tag15_35",
+      "#tag15_36",
+      "#tag15_37",
+      "#tag15_38",
+      "#tag15_39",
+      "#tag15_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 16",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword16_1",
+      "keyword16_2",
+      "keyword16_3",
+      "keyword16_4",
+      "keyword16_5",
+      "keyword16_6",
+      "keyword16_7",
+      "keyword16_8",
+      "keyword16_9",
+      "keyword16_10",
+      "keyword16_11",
+      "keyword16_12",
+      "keyword16_13",
+      "keyword16_14",
+      "keyword16_15",
+      "keyword16_16",
+      "keyword16_17",
+      "keyword16_18",
+      "keyword16_19",
+      "keyword16_20",
+      "keyword16_21",
+      "keyword16_22",
+      "keyword16_23",
+      "keyword16_24",
+      "keyword16_25",
+      "keyword16_26",
+      "keyword16_27",
+      "keyword16_28",
+      "keyword16_29",
+      "keyword16_30",
+      "keyword16_31",
+      "keyword16_32",
+      "keyword16_33",
+      "keyword16_34",
+      "keyword16_35",
+      "keyword16_36",
+      "keyword16_37",
+      "keyword16_38",
+      "keyword16_39",
+      "keyword16_40"
+    ],
+    "hashtags": [
+      "#tag16_1",
+      "#tag16_2",
+      "#tag16_3",
+      "#tag16_4",
+      "#tag16_5",
+      "#tag16_6",
+      "#tag16_7",
+      "#tag16_8",
+      "#tag16_9",
+      "#tag16_10",
+      "#tag16_11",
+      "#tag16_12",
+      "#tag16_13",
+      "#tag16_14",
+      "#tag16_15",
+      "#tag16_16",
+      "#tag16_17",
+      "#tag16_18",
+      "#tag16_19",
+      "#tag16_20",
+      "#tag16_21",
+      "#tag16_22",
+      "#tag16_23",
+      "#tag16_24",
+      "#tag16_25",
+      "#tag16_26",
+      "#tag16_27",
+      "#tag16_28",
+      "#tag16_29",
+      "#tag16_30",
+      "#tag16_31",
+      "#tag16_32",
+      "#tag16_33",
+      "#tag16_34",
+      "#tag16_35",
+      "#tag16_36",
+      "#tag16_37",
+      "#tag16_38",
+      "#tag16_39",
+      "#tag16_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 17",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword17_1",
+      "keyword17_2",
+      "keyword17_3",
+      "keyword17_4",
+      "keyword17_5",
+      "keyword17_6",
+      "keyword17_7",
+      "keyword17_8",
+      "keyword17_9",
+      "keyword17_10",
+      "keyword17_11",
+      "keyword17_12",
+      "keyword17_13",
+      "keyword17_14",
+      "keyword17_15",
+      "keyword17_16",
+      "keyword17_17",
+      "keyword17_18",
+      "keyword17_19",
+      "keyword17_20",
+      "keyword17_21",
+      "keyword17_22",
+      "keyword17_23",
+      "keyword17_24",
+      "keyword17_25",
+      "keyword17_26",
+      "keyword17_27",
+      "keyword17_28",
+      "keyword17_29",
+      "keyword17_30",
+      "keyword17_31",
+      "keyword17_32",
+      "keyword17_33",
+      "keyword17_34",
+      "keyword17_35",
+      "keyword17_36",
+      "keyword17_37",
+      "keyword17_38",
+      "keyword17_39",
+      "keyword17_40"
+    ],
+    "hashtags": [
+      "#tag17_1",
+      "#tag17_2",
+      "#tag17_3",
+      "#tag17_4",
+      "#tag17_5",
+      "#tag17_6",
+      "#tag17_7",
+      "#tag17_8",
+      "#tag17_9",
+      "#tag17_10",
+      "#tag17_11",
+      "#tag17_12",
+      "#tag17_13",
+      "#tag17_14",
+      "#tag17_15",
+      "#tag17_16",
+      "#tag17_17",
+      "#tag17_18",
+      "#tag17_19",
+      "#tag17_20",
+      "#tag17_21",
+      "#tag17_22",
+      "#tag17_23",
+      "#tag17_24",
+      "#tag17_25",
+      "#tag17_26",
+      "#tag17_27",
+      "#tag17_28",
+      "#tag17_29",
+      "#tag17_30",
+      "#tag17_31",
+      "#tag17_32",
+      "#tag17_33",
+      "#tag17_34",
+      "#tag17_35",
+      "#tag17_36",
+      "#tag17_37",
+      "#tag17_38",
+      "#tag17_39",
+      "#tag17_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 18",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword18_1",
+      "keyword18_2",
+      "keyword18_3",
+      "keyword18_4",
+      "keyword18_5",
+      "keyword18_6",
+      "keyword18_7",
+      "keyword18_8",
+      "keyword18_9",
+      "keyword18_10",
+      "keyword18_11",
+      "keyword18_12",
+      "keyword18_13",
+      "keyword18_14",
+      "keyword18_15",
+      "keyword18_16",
+      "keyword18_17",
+      "keyword18_18",
+      "keyword18_19",
+      "keyword18_20",
+      "keyword18_21",
+      "keyword18_22",
+      "keyword18_23",
+      "keyword18_24",
+      "keyword18_25",
+      "keyword18_26",
+      "keyword18_27",
+      "keyword18_28",
+      "keyword18_29",
+      "keyword18_30",
+      "keyword18_31",
+      "keyword18_32",
+      "keyword18_33",
+      "keyword18_34",
+      "keyword18_35",
+      "keyword18_36",
+      "keyword18_37",
+      "keyword18_38",
+      "keyword18_39",
+      "keyword18_40"
+    ],
+    "hashtags": [
+      "#tag18_1",
+      "#tag18_2",
+      "#tag18_3",
+      "#tag18_4",
+      "#tag18_5",
+      "#tag18_6",
+      "#tag18_7",
+      "#tag18_8",
+      "#tag18_9",
+      "#tag18_10",
+      "#tag18_11",
+      "#tag18_12",
+      "#tag18_13",
+      "#tag18_14",
+      "#tag18_15",
+      "#tag18_16",
+      "#tag18_17",
+      "#tag18_18",
+      "#tag18_19",
+      "#tag18_20",
+      "#tag18_21",
+      "#tag18_22",
+      "#tag18_23",
+      "#tag18_24",
+      "#tag18_25",
+      "#tag18_26",
+      "#tag18_27",
+      "#tag18_28",
+      "#tag18_29",
+      "#tag18_30",
+      "#tag18_31",
+      "#tag18_32",
+      "#tag18_33",
+      "#tag18_34",
+      "#tag18_35",
+      "#tag18_36",
+      "#tag18_37",
+      "#tag18_38",
+      "#tag18_39",
+      "#tag18_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 19",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword19_1",
+      "keyword19_2",
+      "keyword19_3",
+      "keyword19_4",
+      "keyword19_5",
+      "keyword19_6",
+      "keyword19_7",
+      "keyword19_8",
+      "keyword19_9",
+      "keyword19_10",
+      "keyword19_11",
+      "keyword19_12",
+      "keyword19_13",
+      "keyword19_14",
+      "keyword19_15",
+      "keyword19_16",
+      "keyword19_17",
+      "keyword19_18",
+      "keyword19_19",
+      "keyword19_20",
+      "keyword19_21",
+      "keyword19_22",
+      "keyword19_23",
+      "keyword19_24",
+      "keyword19_25",
+      "keyword19_26",
+      "keyword19_27",
+      "keyword19_28",
+      "keyword19_29",
+      "keyword19_30",
+      "keyword19_31",
+      "keyword19_32",
+      "keyword19_33",
+      "keyword19_34",
+      "keyword19_35",
+      "keyword19_36",
+      "keyword19_37",
+      "keyword19_38",
+      "keyword19_39",
+      "keyword19_40"
+    ],
+    "hashtags": [
+      "#tag19_1",
+      "#tag19_2",
+      "#tag19_3",
+      "#tag19_4",
+      "#tag19_5",
+      "#tag19_6",
+      "#tag19_7",
+      "#tag19_8",
+      "#tag19_9",
+      "#tag19_10",
+      "#tag19_11",
+      "#tag19_12",
+      "#tag19_13",
+      "#tag19_14",
+      "#tag19_15",
+      "#tag19_16",
+      "#tag19_17",
+      "#tag19_18",
+      "#tag19_19",
+      "#tag19_20",
+      "#tag19_21",
+      "#tag19_22",
+      "#tag19_23",
+      "#tag19_24",
+      "#tag19_25",
+      "#tag19_26",
+      "#tag19_27",
+      "#tag19_28",
+      "#tag19_29",
+      "#tag19_30",
+      "#tag19_31",
+      "#tag19_32",
+      "#tag19_33",
+      "#tag19_34",
+      "#tag19_35",
+      "#tag19_36",
+      "#tag19_37",
+      "#tag19_38",
+      "#tag19_39",
+      "#tag19_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 20",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword20_1",
+      "keyword20_2",
+      "keyword20_3",
+      "keyword20_4",
+      "keyword20_5",
+      "keyword20_6",
+      "keyword20_7",
+      "keyword20_8",
+      "keyword20_9",
+      "keyword20_10",
+      "keyword20_11",
+      "keyword20_12",
+      "keyword20_13",
+      "keyword20_14",
+      "keyword20_15",
+      "keyword20_16",
+      "keyword20_17",
+      "keyword20_18",
+      "keyword20_19",
+      "keyword20_20",
+      "keyword20_21",
+      "keyword20_22",
+      "keyword20_23",
+      "keyword20_24",
+      "keyword20_25",
+      "keyword20_26",
+      "keyword20_27",
+      "keyword20_28",
+      "keyword20_29",
+      "keyword20_30",
+      "keyword20_31",
+      "keyword20_32",
+      "keyword20_33",
+      "keyword20_34",
+      "keyword20_35",
+      "keyword20_36",
+      "keyword20_37",
+      "keyword20_38",
+      "keyword20_39",
+      "keyword20_40"
+    ],
+    "hashtags": [
+      "#tag20_1",
+      "#tag20_2",
+      "#tag20_3",
+      "#tag20_4",
+      "#tag20_5",
+      "#tag20_6",
+      "#tag20_7",
+      "#tag20_8",
+      "#tag20_9",
+      "#tag20_10",
+      "#tag20_11",
+      "#tag20_12",
+      "#tag20_13",
+      "#tag20_14",
+      "#tag20_15",
+      "#tag20_16",
+      "#tag20_17",
+      "#tag20_18",
+      "#tag20_19",
+      "#tag20_20",
+      "#tag20_21",
+      "#tag20_22",
+      "#tag20_23",
+      "#tag20_24",
+      "#tag20_25",
+      "#tag20_26",
+      "#tag20_27",
+      "#tag20_28",
+      "#tag20_29",
+      "#tag20_30",
+      "#tag20_31",
+      "#tag20_32",
+      "#tag20_33",
+      "#tag20_34",
+      "#tag20_35",
+      "#tag20_36",
+      "#tag20_37",
+      "#tag20_38",
+      "#tag20_39",
+      "#tag20_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 21",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword21_1",
+      "keyword21_2",
+      "keyword21_3",
+      "keyword21_4",
+      "keyword21_5",
+      "keyword21_6",
+      "keyword21_7",
+      "keyword21_8",
+      "keyword21_9",
+      "keyword21_10",
+      "keyword21_11",
+      "keyword21_12",
+      "keyword21_13",
+      "keyword21_14",
+      "keyword21_15",
+      "keyword21_16",
+      "keyword21_17",
+      "keyword21_18",
+      "keyword21_19",
+      "keyword21_20",
+      "keyword21_21",
+      "keyword21_22",
+      "keyword21_23",
+      "keyword21_24",
+      "keyword21_25",
+      "keyword21_26",
+      "keyword21_27",
+      "keyword21_28",
+      "keyword21_29",
+      "keyword21_30",
+      "keyword21_31",
+      "keyword21_32",
+      "keyword21_33",
+      "keyword21_34",
+      "keyword21_35",
+      "keyword21_36",
+      "keyword21_37",
+      "keyword21_38",
+      "keyword21_39",
+      "keyword21_40"
+    ],
+    "hashtags": [
+      "#tag21_1",
+      "#tag21_2",
+      "#tag21_3",
+      "#tag21_4",
+      "#tag21_5",
+      "#tag21_6",
+      "#tag21_7",
+      "#tag21_8",
+      "#tag21_9",
+      "#tag21_10",
+      "#tag21_11",
+      "#tag21_12",
+      "#tag21_13",
+      "#tag21_14",
+      "#tag21_15",
+      "#tag21_16",
+      "#tag21_17",
+      "#tag21_18",
+      "#tag21_19",
+      "#tag21_20",
+      "#tag21_21",
+      "#tag21_22",
+      "#tag21_23",
+      "#tag21_24",
+      "#tag21_25",
+      "#tag21_26",
+      "#tag21_27",
+      "#tag21_28",
+      "#tag21_29",
+      "#tag21_30",
+      "#tag21_31",
+      "#tag21_32",
+      "#tag21_33",
+      "#tag21_34",
+      "#tag21_35",
+      "#tag21_36",
+      "#tag21_37",
+      "#tag21_38",
+      "#tag21_39",
+      "#tag21_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 22",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword22_1",
+      "keyword22_2",
+      "keyword22_3",
+      "keyword22_4",
+      "keyword22_5",
+      "keyword22_6",
+      "keyword22_7",
+      "keyword22_8",
+      "keyword22_9",
+      "keyword22_10",
+      "keyword22_11",
+      "keyword22_12",
+      "keyword22_13",
+      "keyword22_14",
+      "keyword22_15",
+      "keyword22_16",
+      "keyword22_17",
+      "keyword22_18",
+      "keyword22_19",
+      "keyword22_20",
+      "keyword22_21",
+      "keyword22_22",
+      "keyword22_23",
+      "keyword22_24",
+      "keyword22_25",
+      "keyword22_26",
+      "keyword22_27",
+      "keyword22_28",
+      "keyword22_29",
+      "keyword22_30",
+      "keyword22_31",
+      "keyword22_32",
+      "keyword22_33",
+      "keyword22_34",
+      "keyword22_35",
+      "keyword22_36",
+      "keyword22_37",
+      "keyword22_38",
+      "keyword22_39",
+      "keyword22_40"
+    ],
+    "hashtags": [
+      "#tag22_1",
+      "#tag22_2",
+      "#tag22_3",
+      "#tag22_4",
+      "#tag22_5",
+      "#tag22_6",
+      "#tag22_7",
+      "#tag22_8",
+      "#tag22_9",
+      "#tag22_10",
+      "#tag22_11",
+      "#tag22_12",
+      "#tag22_13",
+      "#tag22_14",
+      "#tag22_15",
+      "#tag22_16",
+      "#tag22_17",
+      "#tag22_18",
+      "#tag22_19",
+      "#tag22_20",
+      "#tag22_21",
+      "#tag22_22",
+      "#tag22_23",
+      "#tag22_24",
+      "#tag22_25",
+      "#tag22_26",
+      "#tag22_27",
+      "#tag22_28",
+      "#tag22_29",
+      "#tag22_30",
+      "#tag22_31",
+      "#tag22_32",
+      "#tag22_33",
+      "#tag22_34",
+      "#tag22_35",
+      "#tag22_36",
+      "#tag22_37",
+      "#tag22_38",
+      "#tag22_39",
+      "#tag22_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 23",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword23_1",
+      "keyword23_2",
+      "keyword23_3",
+      "keyword23_4",
+      "keyword23_5",
+      "keyword23_6",
+      "keyword23_7",
+      "keyword23_8",
+      "keyword23_9",
+      "keyword23_10",
+      "keyword23_11",
+      "keyword23_12",
+      "keyword23_13",
+      "keyword23_14",
+      "keyword23_15",
+      "keyword23_16",
+      "keyword23_17",
+      "keyword23_18",
+      "keyword23_19",
+      "keyword23_20",
+      "keyword23_21",
+      "keyword23_22",
+      "keyword23_23",
+      "keyword23_24",
+      "keyword23_25",
+      "keyword23_26",
+      "keyword23_27",
+      "keyword23_28",
+      "keyword23_29",
+      "keyword23_30",
+      "keyword23_31",
+      "keyword23_32",
+      "keyword23_33",
+      "keyword23_34",
+      "keyword23_35",
+      "keyword23_36",
+      "keyword23_37",
+      "keyword23_38",
+      "keyword23_39",
+      "keyword23_40"
+    ],
+    "hashtags": [
+      "#tag23_1",
+      "#tag23_2",
+      "#tag23_3",
+      "#tag23_4",
+      "#tag23_5",
+      "#tag23_6",
+      "#tag23_7",
+      "#tag23_8",
+      "#tag23_9",
+      "#tag23_10",
+      "#tag23_11",
+      "#tag23_12",
+      "#tag23_13",
+      "#tag23_14",
+      "#tag23_15",
+      "#tag23_16",
+      "#tag23_17",
+      "#tag23_18",
+      "#tag23_19",
+      "#tag23_20",
+      "#tag23_21",
+      "#tag23_22",
+      "#tag23_23",
+      "#tag23_24",
+      "#tag23_25",
+      "#tag23_26",
+      "#tag23_27",
+      "#tag23_28",
+      "#tag23_29",
+      "#tag23_30",
+      "#tag23_31",
+      "#tag23_32",
+      "#tag23_33",
+      "#tag23_34",
+      "#tag23_35",
+      "#tag23_36",
+      "#tag23_37",
+      "#tag23_38",
+      "#tag23_39",
+      "#tag23_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 24",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword24_1",
+      "keyword24_2",
+      "keyword24_3",
+      "keyword24_4",
+      "keyword24_5",
+      "keyword24_6",
+      "keyword24_7",
+      "keyword24_8",
+      "keyword24_9",
+      "keyword24_10",
+      "keyword24_11",
+      "keyword24_12",
+      "keyword24_13",
+      "keyword24_14",
+      "keyword24_15",
+      "keyword24_16",
+      "keyword24_17",
+      "keyword24_18",
+      "keyword24_19",
+      "keyword24_20",
+      "keyword24_21",
+      "keyword24_22",
+      "keyword24_23",
+      "keyword24_24",
+      "keyword24_25",
+      "keyword24_26",
+      "keyword24_27",
+      "keyword24_28",
+      "keyword24_29",
+      "keyword24_30",
+      "keyword24_31",
+      "keyword24_32",
+      "keyword24_33",
+      "keyword24_34",
+      "keyword24_35",
+      "keyword24_36",
+      "keyword24_37",
+      "keyword24_38",
+      "keyword24_39",
+      "keyword24_40"
+    ],
+    "hashtags": [
+      "#tag24_1",
+      "#tag24_2",
+      "#tag24_3",
+      "#tag24_4",
+      "#tag24_5",
+      "#tag24_6",
+      "#tag24_7",
+      "#tag24_8",
+      "#tag24_9",
+      "#tag24_10",
+      "#tag24_11",
+      "#tag24_12",
+      "#tag24_13",
+      "#tag24_14",
+      "#tag24_15",
+      "#tag24_16",
+      "#tag24_17",
+      "#tag24_18",
+      "#tag24_19",
+      "#tag24_20",
+      "#tag24_21",
+      "#tag24_22",
+      "#tag24_23",
+      "#tag24_24",
+      "#tag24_25",
+      "#tag24_26",
+      "#tag24_27",
+      "#tag24_28",
+      "#tag24_29",
+      "#tag24_30",
+      "#tag24_31",
+      "#tag24_32",
+      "#tag24_33",
+      "#tag24_34",
+      "#tag24_35",
+      "#tag24_36",
+      "#tag24_37",
+      "#tag24_38",
+      "#tag24_39",
+      "#tag24_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 25",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword25_1",
+      "keyword25_2",
+      "keyword25_3",
+      "keyword25_4",
+      "keyword25_5",
+      "keyword25_6",
+      "keyword25_7",
+      "keyword25_8",
+      "keyword25_9",
+      "keyword25_10",
+      "keyword25_11",
+      "keyword25_12",
+      "keyword25_13",
+      "keyword25_14",
+      "keyword25_15",
+      "keyword25_16",
+      "keyword25_17",
+      "keyword25_18",
+      "keyword25_19",
+      "keyword25_20",
+      "keyword25_21",
+      "keyword25_22",
+      "keyword25_23",
+      "keyword25_24",
+      "keyword25_25",
+      "keyword25_26",
+      "keyword25_27",
+      "keyword25_28",
+      "keyword25_29",
+      "keyword25_30",
+      "keyword25_31",
+      "keyword25_32",
+      "keyword25_33",
+      "keyword25_34",
+      "keyword25_35",
+      "keyword25_36",
+      "keyword25_37",
+      "keyword25_38",
+      "keyword25_39",
+      "keyword25_40"
+    ],
+    "hashtags": [
+      "#tag25_1",
+      "#tag25_2",
+      "#tag25_3",
+      "#tag25_4",
+      "#tag25_5",
+      "#tag25_6",
+      "#tag25_7",
+      "#tag25_8",
+      "#tag25_9",
+      "#tag25_10",
+      "#tag25_11",
+      "#tag25_12",
+      "#tag25_13",
+      "#tag25_14",
+      "#tag25_15",
+      "#tag25_16",
+      "#tag25_17",
+      "#tag25_18",
+      "#tag25_19",
+      "#tag25_20",
+      "#tag25_21",
+      "#tag25_22",
+      "#tag25_23",
+      "#tag25_24",
+      "#tag25_25",
+      "#tag25_26",
+      "#tag25_27",
+      "#tag25_28",
+      "#tag25_29",
+      "#tag25_30",
+      "#tag25_31",
+      "#tag25_32",
+      "#tag25_33",
+      "#tag25_34",
+      "#tag25_35",
+      "#tag25_36",
+      "#tag25_37",
+      "#tag25_38",
+      "#tag25_39",
+      "#tag25_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 26",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword26_1",
+      "keyword26_2",
+      "keyword26_3",
+      "keyword26_4",
+      "keyword26_5",
+      "keyword26_6",
+      "keyword26_7",
+      "keyword26_8",
+      "keyword26_9",
+      "keyword26_10",
+      "keyword26_11",
+      "keyword26_12",
+      "keyword26_13",
+      "keyword26_14",
+      "keyword26_15",
+      "keyword26_16",
+      "keyword26_17",
+      "keyword26_18",
+      "keyword26_19",
+      "keyword26_20",
+      "keyword26_21",
+      "keyword26_22",
+      "keyword26_23",
+      "keyword26_24",
+      "keyword26_25",
+      "keyword26_26",
+      "keyword26_27",
+      "keyword26_28",
+      "keyword26_29",
+      "keyword26_30",
+      "keyword26_31",
+      "keyword26_32",
+      "keyword26_33",
+      "keyword26_34",
+      "keyword26_35",
+      "keyword26_36",
+      "keyword26_37",
+      "keyword26_38",
+      "keyword26_39",
+      "keyword26_40"
+    ],
+    "hashtags": [
+      "#tag26_1",
+      "#tag26_2",
+      "#tag26_3",
+      "#tag26_4",
+      "#tag26_5",
+      "#tag26_6",
+      "#tag26_7",
+      "#tag26_8",
+      "#tag26_9",
+      "#tag26_10",
+      "#tag26_11",
+      "#tag26_12",
+      "#tag26_13",
+      "#tag26_14",
+      "#tag26_15",
+      "#tag26_16",
+      "#tag26_17",
+      "#tag26_18",
+      "#tag26_19",
+      "#tag26_20",
+      "#tag26_21",
+      "#tag26_22",
+      "#tag26_23",
+      "#tag26_24",
+      "#tag26_25",
+      "#tag26_26",
+      "#tag26_27",
+      "#tag26_28",
+      "#tag26_29",
+      "#tag26_30",
+      "#tag26_31",
+      "#tag26_32",
+      "#tag26_33",
+      "#tag26_34",
+      "#tag26_35",
+      "#tag26_36",
+      "#tag26_37",
+      "#tag26_38",
+      "#tag26_39",
+      "#tag26_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 27",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword27_1",
+      "keyword27_2",
+      "keyword27_3",
+      "keyword27_4",
+      "keyword27_5",
+      "keyword27_6",
+      "keyword27_7",
+      "keyword27_8",
+      "keyword27_9",
+      "keyword27_10",
+      "keyword27_11",
+      "keyword27_12",
+      "keyword27_13",
+      "keyword27_14",
+      "keyword27_15",
+      "keyword27_16",
+      "keyword27_17",
+      "keyword27_18",
+      "keyword27_19",
+      "keyword27_20",
+      "keyword27_21",
+      "keyword27_22",
+      "keyword27_23",
+      "keyword27_24",
+      "keyword27_25",
+      "keyword27_26",
+      "keyword27_27",
+      "keyword27_28",
+      "keyword27_29",
+      "keyword27_30",
+      "keyword27_31",
+      "keyword27_32",
+      "keyword27_33",
+      "keyword27_34",
+      "keyword27_35",
+      "keyword27_36",
+      "keyword27_37",
+      "keyword27_38",
+      "keyword27_39",
+      "keyword27_40"
+    ],
+    "hashtags": [
+      "#tag27_1",
+      "#tag27_2",
+      "#tag27_3",
+      "#tag27_4",
+      "#tag27_5",
+      "#tag27_6",
+      "#tag27_7",
+      "#tag27_8",
+      "#tag27_9",
+      "#tag27_10",
+      "#tag27_11",
+      "#tag27_12",
+      "#tag27_13",
+      "#tag27_14",
+      "#tag27_15",
+      "#tag27_16",
+      "#tag27_17",
+      "#tag27_18",
+      "#tag27_19",
+      "#tag27_20",
+      "#tag27_21",
+      "#tag27_22",
+      "#tag27_23",
+      "#tag27_24",
+      "#tag27_25",
+      "#tag27_26",
+      "#tag27_27",
+      "#tag27_28",
+      "#tag27_29",
+      "#tag27_30",
+      "#tag27_31",
+      "#tag27_32",
+      "#tag27_33",
+      "#tag27_34",
+      "#tag27_35",
+      "#tag27_36",
+      "#tag27_37",
+      "#tag27_38",
+      "#tag27_39",
+      "#tag27_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 28",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword28_1",
+      "keyword28_2",
+      "keyword28_3",
+      "keyword28_4",
+      "keyword28_5",
+      "keyword28_6",
+      "keyword28_7",
+      "keyword28_8",
+      "keyword28_9",
+      "keyword28_10",
+      "keyword28_11",
+      "keyword28_12",
+      "keyword28_13",
+      "keyword28_14",
+      "keyword28_15",
+      "keyword28_16",
+      "keyword28_17",
+      "keyword28_18",
+      "keyword28_19",
+      "keyword28_20",
+      "keyword28_21",
+      "keyword28_22",
+      "keyword28_23",
+      "keyword28_24",
+      "keyword28_25",
+      "keyword28_26",
+      "keyword28_27",
+      "keyword28_28",
+      "keyword28_29",
+      "keyword28_30",
+      "keyword28_31",
+      "keyword28_32",
+      "keyword28_33",
+      "keyword28_34",
+      "keyword28_35",
+      "keyword28_36",
+      "keyword28_37",
+      "keyword28_38",
+      "keyword28_39",
+      "keyword28_40"
+    ],
+    "hashtags": [
+      "#tag28_1",
+      "#tag28_2",
+      "#tag28_3",
+      "#tag28_4",
+      "#tag28_5",
+      "#tag28_6",
+      "#tag28_7",
+      "#tag28_8",
+      "#tag28_9",
+      "#tag28_10",
+      "#tag28_11",
+      "#tag28_12",
+      "#tag28_13",
+      "#tag28_14",
+      "#tag28_15",
+      "#tag28_16",
+      "#tag28_17",
+      "#tag28_18",
+      "#tag28_19",
+      "#tag28_20",
+      "#tag28_21",
+      "#tag28_22",
+      "#tag28_23",
+      "#tag28_24",
+      "#tag28_25",
+      "#tag28_26",
+      "#tag28_27",
+      "#tag28_28",
+      "#tag28_29",
+      "#tag28_30",
+      "#tag28_31",
+      "#tag28_32",
+      "#tag28_33",
+      "#tag28_34",
+      "#tag28_35",
+      "#tag28_36",
+      "#tag28_37",
+      "#tag28_38",
+      "#tag28_39",
+      "#tag28_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 29",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword29_1",
+      "keyword29_2",
+      "keyword29_3",
+      "keyword29_4",
+      "keyword29_5",
+      "keyword29_6",
+      "keyword29_7",
+      "keyword29_8",
+      "keyword29_9",
+      "keyword29_10",
+      "keyword29_11",
+      "keyword29_12",
+      "keyword29_13",
+      "keyword29_14",
+      "keyword29_15",
+      "keyword29_16",
+      "keyword29_17",
+      "keyword29_18",
+      "keyword29_19",
+      "keyword29_20",
+      "keyword29_21",
+      "keyword29_22",
+      "keyword29_23",
+      "keyword29_24",
+      "keyword29_25",
+      "keyword29_26",
+      "keyword29_27",
+      "keyword29_28",
+      "keyword29_29",
+      "keyword29_30",
+      "keyword29_31",
+      "keyword29_32",
+      "keyword29_33",
+      "keyword29_34",
+      "keyword29_35",
+      "keyword29_36",
+      "keyword29_37",
+      "keyword29_38",
+      "keyword29_39",
+      "keyword29_40"
+    ],
+    "hashtags": [
+      "#tag29_1",
+      "#tag29_2",
+      "#tag29_3",
+      "#tag29_4",
+      "#tag29_5",
+      "#tag29_6",
+      "#tag29_7",
+      "#tag29_8",
+      "#tag29_9",
+      "#tag29_10",
+      "#tag29_11",
+      "#tag29_12",
+      "#tag29_13",
+      "#tag29_14",
+      "#tag29_15",
+      "#tag29_16",
+      "#tag29_17",
+      "#tag29_18",
+      "#tag29_19",
+      "#tag29_20",
+      "#tag29_21",
+      "#tag29_22",
+      "#tag29_23",
+      "#tag29_24",
+      "#tag29_25",
+      "#tag29_26",
+      "#tag29_27",
+      "#tag29_28",
+      "#tag29_29",
+      "#tag29_30",
+      "#tag29_31",
+      "#tag29_32",
+      "#tag29_33",
+      "#tag29_34",
+      "#tag29_35",
+      "#tag29_36",
+      "#tag29_37",
+      "#tag29_38",
+      "#tag29_39",
+      "#tag29_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 30",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword30_1",
+      "keyword30_2",
+      "keyword30_3",
+      "keyword30_4",
+      "keyword30_5",
+      "keyword30_6",
+      "keyword30_7",
+      "keyword30_8",
+      "keyword30_9",
+      "keyword30_10",
+      "keyword30_11",
+      "keyword30_12",
+      "keyword30_13",
+      "keyword30_14",
+      "keyword30_15",
+      "keyword30_16",
+      "keyword30_17",
+      "keyword30_18",
+      "keyword30_19",
+      "keyword30_20",
+      "keyword30_21",
+      "keyword30_22",
+      "keyword30_23",
+      "keyword30_24",
+      "keyword30_25",
+      "keyword30_26",
+      "keyword30_27",
+      "keyword30_28",
+      "keyword30_29",
+      "keyword30_30",
+      "keyword30_31",
+      "keyword30_32",
+      "keyword30_33",
+      "keyword30_34",
+      "keyword30_35",
+      "keyword30_36",
+      "keyword30_37",
+      "keyword30_38",
+      "keyword30_39",
+      "keyword30_40"
+    ],
+    "hashtags": [
+      "#tag30_1",
+      "#tag30_2",
+      "#tag30_3",
+      "#tag30_4",
+      "#tag30_5",
+      "#tag30_6",
+      "#tag30_7",
+      "#tag30_8",
+      "#tag30_9",
+      "#tag30_10",
+      "#tag30_11",
+      "#tag30_12",
+      "#tag30_13",
+      "#tag30_14",
+      "#tag30_15",
+      "#tag30_16",
+      "#tag30_17",
+      "#tag30_18",
+      "#tag30_19",
+      "#tag30_20",
+      "#tag30_21",
+      "#tag30_22",
+      "#tag30_23",
+      "#tag30_24",
+      "#tag30_25",
+      "#tag30_26",
+      "#tag30_27",
+      "#tag30_28",
+      "#tag30_29",
+      "#tag30_30",
+      "#tag30_31",
+      "#tag30_32",
+      "#tag30_33",
+      "#tag30_34",
+      "#tag30_35",
+      "#tag30_36",
+      "#tag30_37",
+      "#tag30_38",
+      "#tag30_39",
+      "#tag30_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 31",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword31_1",
+      "keyword31_2",
+      "keyword31_3",
+      "keyword31_4",
+      "keyword31_5",
+      "keyword31_6",
+      "keyword31_7",
+      "keyword31_8",
+      "keyword31_9",
+      "keyword31_10",
+      "keyword31_11",
+      "keyword31_12",
+      "keyword31_13",
+      "keyword31_14",
+      "keyword31_15",
+      "keyword31_16",
+      "keyword31_17",
+      "keyword31_18",
+      "keyword31_19",
+      "keyword31_20",
+      "keyword31_21",
+      "keyword31_22",
+      "keyword31_23",
+      "keyword31_24",
+      "keyword31_25",
+      "keyword31_26",
+      "keyword31_27",
+      "keyword31_28",
+      "keyword31_29",
+      "keyword31_30",
+      "keyword31_31",
+      "keyword31_32",
+      "keyword31_33",
+      "keyword31_34",
+      "keyword31_35",
+      "keyword31_36",
+      "keyword31_37",
+      "keyword31_38",
+      "keyword31_39",
+      "keyword31_40"
+    ],
+    "hashtags": [
+      "#tag31_1",
+      "#tag31_2",
+      "#tag31_3",
+      "#tag31_4",
+      "#tag31_5",
+      "#tag31_6",
+      "#tag31_7",
+      "#tag31_8",
+      "#tag31_9",
+      "#tag31_10",
+      "#tag31_11",
+      "#tag31_12",
+      "#tag31_13",
+      "#tag31_14",
+      "#tag31_15",
+      "#tag31_16",
+      "#tag31_17",
+      "#tag31_18",
+      "#tag31_19",
+      "#tag31_20",
+      "#tag31_21",
+      "#tag31_22",
+      "#tag31_23",
+      "#tag31_24",
+      "#tag31_25",
+      "#tag31_26",
+      "#tag31_27",
+      "#tag31_28",
+      "#tag31_29",
+      "#tag31_30",
+      "#tag31_31",
+      "#tag31_32",
+      "#tag31_33",
+      "#tag31_34",
+      "#tag31_35",
+      "#tag31_36",
+      "#tag31_37",
+      "#tag31_38",
+      "#tag31_39",
+      "#tag31_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 32",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword32_1",
+      "keyword32_2",
+      "keyword32_3",
+      "keyword32_4",
+      "keyword32_5",
+      "keyword32_6",
+      "keyword32_7",
+      "keyword32_8",
+      "keyword32_9",
+      "keyword32_10",
+      "keyword32_11",
+      "keyword32_12",
+      "keyword32_13",
+      "keyword32_14",
+      "keyword32_15",
+      "keyword32_16",
+      "keyword32_17",
+      "keyword32_18",
+      "keyword32_19",
+      "keyword32_20",
+      "keyword32_21",
+      "keyword32_22",
+      "keyword32_23",
+      "keyword32_24",
+      "keyword32_25",
+      "keyword32_26",
+      "keyword32_27",
+      "keyword32_28",
+      "keyword32_29",
+      "keyword32_30",
+      "keyword32_31",
+      "keyword32_32",
+      "keyword32_33",
+      "keyword32_34",
+      "keyword32_35",
+      "keyword32_36",
+      "keyword32_37",
+      "keyword32_38",
+      "keyword32_39",
+      "keyword32_40"
+    ],
+    "hashtags": [
+      "#tag32_1",
+      "#tag32_2",
+      "#tag32_3",
+      "#tag32_4",
+      "#tag32_5",
+      "#tag32_6",
+      "#tag32_7",
+      "#tag32_8",
+      "#tag32_9",
+      "#tag32_10",
+      "#tag32_11",
+      "#tag32_12",
+      "#tag32_13",
+      "#tag32_14",
+      "#tag32_15",
+      "#tag32_16",
+      "#tag32_17",
+      "#tag32_18",
+      "#tag32_19",
+      "#tag32_20",
+      "#tag32_21",
+      "#tag32_22",
+      "#tag32_23",
+      "#tag32_24",
+      "#tag32_25",
+      "#tag32_26",
+      "#tag32_27",
+      "#tag32_28",
+      "#tag32_29",
+      "#tag32_30",
+      "#tag32_31",
+      "#tag32_32",
+      "#tag32_33",
+      "#tag32_34",
+      "#tag32_35",
+      "#tag32_36",
+      "#tag32_37",
+      "#tag32_38",
+      "#tag32_39",
+      "#tag32_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 33",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword33_1",
+      "keyword33_2",
+      "keyword33_3",
+      "keyword33_4",
+      "keyword33_5",
+      "keyword33_6",
+      "keyword33_7",
+      "keyword33_8",
+      "keyword33_9",
+      "keyword33_10",
+      "keyword33_11",
+      "keyword33_12",
+      "keyword33_13",
+      "keyword33_14",
+      "keyword33_15",
+      "keyword33_16",
+      "keyword33_17",
+      "keyword33_18",
+      "keyword33_19",
+      "keyword33_20",
+      "keyword33_21",
+      "keyword33_22",
+      "keyword33_23",
+      "keyword33_24",
+      "keyword33_25",
+      "keyword33_26",
+      "keyword33_27",
+      "keyword33_28",
+      "keyword33_29",
+      "keyword33_30",
+      "keyword33_31",
+      "keyword33_32",
+      "keyword33_33",
+      "keyword33_34",
+      "keyword33_35",
+      "keyword33_36",
+      "keyword33_37",
+      "keyword33_38",
+      "keyword33_39",
+      "keyword33_40"
+    ],
+    "hashtags": [
+      "#tag33_1",
+      "#tag33_2",
+      "#tag33_3",
+      "#tag33_4",
+      "#tag33_5",
+      "#tag33_6",
+      "#tag33_7",
+      "#tag33_8",
+      "#tag33_9",
+      "#tag33_10",
+      "#tag33_11",
+      "#tag33_12",
+      "#tag33_13",
+      "#tag33_14",
+      "#tag33_15",
+      "#tag33_16",
+      "#tag33_17",
+      "#tag33_18",
+      "#tag33_19",
+      "#tag33_20",
+      "#tag33_21",
+      "#tag33_22",
+      "#tag33_23",
+      "#tag33_24",
+      "#tag33_25",
+      "#tag33_26",
+      "#tag33_27",
+      "#tag33_28",
+      "#tag33_29",
+      "#tag33_30",
+      "#tag33_31",
+      "#tag33_32",
+      "#tag33_33",
+      "#tag33_34",
+      "#tag33_35",
+      "#tag33_36",
+      "#tag33_37",
+      "#tag33_38",
+      "#tag33_39",
+      "#tag33_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 34",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword34_1",
+      "keyword34_2",
+      "keyword34_3",
+      "keyword34_4",
+      "keyword34_5",
+      "keyword34_6",
+      "keyword34_7",
+      "keyword34_8",
+      "keyword34_9",
+      "keyword34_10",
+      "keyword34_11",
+      "keyword34_12",
+      "keyword34_13",
+      "keyword34_14",
+      "keyword34_15",
+      "keyword34_16",
+      "keyword34_17",
+      "keyword34_18",
+      "keyword34_19",
+      "keyword34_20",
+      "keyword34_21",
+      "keyword34_22",
+      "keyword34_23",
+      "keyword34_24",
+      "keyword34_25",
+      "keyword34_26",
+      "keyword34_27",
+      "keyword34_28",
+      "keyword34_29",
+      "keyword34_30",
+      "keyword34_31",
+      "keyword34_32",
+      "keyword34_33",
+      "keyword34_34",
+      "keyword34_35",
+      "keyword34_36",
+      "keyword34_37",
+      "keyword34_38",
+      "keyword34_39",
+      "keyword34_40"
+    ],
+    "hashtags": [
+      "#tag34_1",
+      "#tag34_2",
+      "#tag34_3",
+      "#tag34_4",
+      "#tag34_5",
+      "#tag34_6",
+      "#tag34_7",
+      "#tag34_8",
+      "#tag34_9",
+      "#tag34_10",
+      "#tag34_11",
+      "#tag34_12",
+      "#tag34_13",
+      "#tag34_14",
+      "#tag34_15",
+      "#tag34_16",
+      "#tag34_17",
+      "#tag34_18",
+      "#tag34_19",
+      "#tag34_20",
+      "#tag34_21",
+      "#tag34_22",
+      "#tag34_23",
+      "#tag34_24",
+      "#tag34_25",
+      "#tag34_26",
+      "#tag34_27",
+      "#tag34_28",
+      "#tag34_29",
+      "#tag34_30",
+      "#tag34_31",
+      "#tag34_32",
+      "#tag34_33",
+      "#tag34_34",
+      "#tag34_35",
+      "#tag34_36",
+      "#tag34_37",
+      "#tag34_38",
+      "#tag34_39",
+      "#tag34_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 35",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword35_1",
+      "keyword35_2",
+      "keyword35_3",
+      "keyword35_4",
+      "keyword35_5",
+      "keyword35_6",
+      "keyword35_7",
+      "keyword35_8",
+      "keyword35_9",
+      "keyword35_10",
+      "keyword35_11",
+      "keyword35_12",
+      "keyword35_13",
+      "keyword35_14",
+      "keyword35_15",
+      "keyword35_16",
+      "keyword35_17",
+      "keyword35_18",
+      "keyword35_19",
+      "keyword35_20",
+      "keyword35_21",
+      "keyword35_22",
+      "keyword35_23",
+      "keyword35_24",
+      "keyword35_25",
+      "keyword35_26",
+      "keyword35_27",
+      "keyword35_28",
+      "keyword35_29",
+      "keyword35_30",
+      "keyword35_31",
+      "keyword35_32",
+      "keyword35_33",
+      "keyword35_34",
+      "keyword35_35",
+      "keyword35_36",
+      "keyword35_37",
+      "keyword35_38",
+      "keyword35_39",
+      "keyword35_40"
+    ],
+    "hashtags": [
+      "#tag35_1",
+      "#tag35_2",
+      "#tag35_3",
+      "#tag35_4",
+      "#tag35_5",
+      "#tag35_6",
+      "#tag35_7",
+      "#tag35_8",
+      "#tag35_9",
+      "#tag35_10",
+      "#tag35_11",
+      "#tag35_12",
+      "#tag35_13",
+      "#tag35_14",
+      "#tag35_15",
+      "#tag35_16",
+      "#tag35_17",
+      "#tag35_18",
+      "#tag35_19",
+      "#tag35_20",
+      "#tag35_21",
+      "#tag35_22",
+      "#tag35_23",
+      "#tag35_24",
+      "#tag35_25",
+      "#tag35_26",
+      "#tag35_27",
+      "#tag35_28",
+      "#tag35_29",
+      "#tag35_30",
+      "#tag35_31",
+      "#tag35_32",
+      "#tag35_33",
+      "#tag35_34",
+      "#tag35_35",
+      "#tag35_36",
+      "#tag35_37",
+      "#tag35_38",
+      "#tag35_39",
+      "#tag35_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 36",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword36_1",
+      "keyword36_2",
+      "keyword36_3",
+      "keyword36_4",
+      "keyword36_5",
+      "keyword36_6",
+      "keyword36_7",
+      "keyword36_8",
+      "keyword36_9",
+      "keyword36_10",
+      "keyword36_11",
+      "keyword36_12",
+      "keyword36_13",
+      "keyword36_14",
+      "keyword36_15",
+      "keyword36_16",
+      "keyword36_17",
+      "keyword36_18",
+      "keyword36_19",
+      "keyword36_20",
+      "keyword36_21",
+      "keyword36_22",
+      "keyword36_23",
+      "keyword36_24",
+      "keyword36_25",
+      "keyword36_26",
+      "keyword36_27",
+      "keyword36_28",
+      "keyword36_29",
+      "keyword36_30",
+      "keyword36_31",
+      "keyword36_32",
+      "keyword36_33",
+      "keyword36_34",
+      "keyword36_35",
+      "keyword36_36",
+      "keyword36_37",
+      "keyword36_38",
+      "keyword36_39",
+      "keyword36_40"
+    ],
+    "hashtags": [
+      "#tag36_1",
+      "#tag36_2",
+      "#tag36_3",
+      "#tag36_4",
+      "#tag36_5",
+      "#tag36_6",
+      "#tag36_7",
+      "#tag36_8",
+      "#tag36_9",
+      "#tag36_10",
+      "#tag36_11",
+      "#tag36_12",
+      "#tag36_13",
+      "#tag36_14",
+      "#tag36_15",
+      "#tag36_16",
+      "#tag36_17",
+      "#tag36_18",
+      "#tag36_19",
+      "#tag36_20",
+      "#tag36_21",
+      "#tag36_22",
+      "#tag36_23",
+      "#tag36_24",
+      "#tag36_25",
+      "#tag36_26",
+      "#tag36_27",
+      "#tag36_28",
+      "#tag36_29",
+      "#tag36_30",
+      "#tag36_31",
+      "#tag36_32",
+      "#tag36_33",
+      "#tag36_34",
+      "#tag36_35",
+      "#tag36_36",
+      "#tag36_37",
+      "#tag36_38",
+      "#tag36_39",
+      "#tag36_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 37",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword37_1",
+      "keyword37_2",
+      "keyword37_3",
+      "keyword37_4",
+      "keyword37_5",
+      "keyword37_6",
+      "keyword37_7",
+      "keyword37_8",
+      "keyword37_9",
+      "keyword37_10",
+      "keyword37_11",
+      "keyword37_12",
+      "keyword37_13",
+      "keyword37_14",
+      "keyword37_15",
+      "keyword37_16",
+      "keyword37_17",
+      "keyword37_18",
+      "keyword37_19",
+      "keyword37_20",
+      "keyword37_21",
+      "keyword37_22",
+      "keyword37_23",
+      "keyword37_24",
+      "keyword37_25",
+      "keyword37_26",
+      "keyword37_27",
+      "keyword37_28",
+      "keyword37_29",
+      "keyword37_30",
+      "keyword37_31",
+      "keyword37_32",
+      "keyword37_33",
+      "keyword37_34",
+      "keyword37_35",
+      "keyword37_36",
+      "keyword37_37",
+      "keyword37_38",
+      "keyword37_39",
+      "keyword37_40"
+    ],
+    "hashtags": [
+      "#tag37_1",
+      "#tag37_2",
+      "#tag37_3",
+      "#tag37_4",
+      "#tag37_5",
+      "#tag37_6",
+      "#tag37_7",
+      "#tag37_8",
+      "#tag37_9",
+      "#tag37_10",
+      "#tag37_11",
+      "#tag37_12",
+      "#tag37_13",
+      "#tag37_14",
+      "#tag37_15",
+      "#tag37_16",
+      "#tag37_17",
+      "#tag37_18",
+      "#tag37_19",
+      "#tag37_20",
+      "#tag37_21",
+      "#tag37_22",
+      "#tag37_23",
+      "#tag37_24",
+      "#tag37_25",
+      "#tag37_26",
+      "#tag37_27",
+      "#tag37_28",
+      "#tag37_29",
+      "#tag37_30",
+      "#tag37_31",
+      "#tag37_32",
+      "#tag37_33",
+      "#tag37_34",
+      "#tag37_35",
+      "#tag37_36",
+      "#tag37_37",
+      "#tag37_38",
+      "#tag37_39",
+      "#tag37_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 38",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword38_1",
+      "keyword38_2",
+      "keyword38_3",
+      "keyword38_4",
+      "keyword38_5",
+      "keyword38_6",
+      "keyword38_7",
+      "keyword38_8",
+      "keyword38_9",
+      "keyword38_10",
+      "keyword38_11",
+      "keyword38_12",
+      "keyword38_13",
+      "keyword38_14",
+      "keyword38_15",
+      "keyword38_16",
+      "keyword38_17",
+      "keyword38_18",
+      "keyword38_19",
+      "keyword38_20",
+      "keyword38_21",
+      "keyword38_22",
+      "keyword38_23",
+      "keyword38_24",
+      "keyword38_25",
+      "keyword38_26",
+      "keyword38_27",
+      "keyword38_28",
+      "keyword38_29",
+      "keyword38_30",
+      "keyword38_31",
+      "keyword38_32",
+      "keyword38_33",
+      "keyword38_34",
+      "keyword38_35",
+      "keyword38_36",
+      "keyword38_37",
+      "keyword38_38",
+      "keyword38_39",
+      "keyword38_40"
+    ],
+    "hashtags": [
+      "#tag38_1",
+      "#tag38_2",
+      "#tag38_3",
+      "#tag38_4",
+      "#tag38_5",
+      "#tag38_6",
+      "#tag38_7",
+      "#tag38_8",
+      "#tag38_9",
+      "#tag38_10",
+      "#tag38_11",
+      "#tag38_12",
+      "#tag38_13",
+      "#tag38_14",
+      "#tag38_15",
+      "#tag38_16",
+      "#tag38_17",
+      "#tag38_18",
+      "#tag38_19",
+      "#tag38_20",
+      "#tag38_21",
+      "#tag38_22",
+      "#tag38_23",
+      "#tag38_24",
+      "#tag38_25",
+      "#tag38_26",
+      "#tag38_27",
+      "#tag38_28",
+      "#tag38_29",
+      "#tag38_30",
+      "#tag38_31",
+      "#tag38_32",
+      "#tag38_33",
+      "#tag38_34",
+      "#tag38_35",
+      "#tag38_36",
+      "#tag38_37",
+      "#tag38_38",
+      "#tag38_39",
+      "#tag38_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 39",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword39_1",
+      "keyword39_2",
+      "keyword39_3",
+      "keyword39_4",
+      "keyword39_5",
+      "keyword39_6",
+      "keyword39_7",
+      "keyword39_8",
+      "keyword39_9",
+      "keyword39_10",
+      "keyword39_11",
+      "keyword39_12",
+      "keyword39_13",
+      "keyword39_14",
+      "keyword39_15",
+      "keyword39_16",
+      "keyword39_17",
+      "keyword39_18",
+      "keyword39_19",
+      "keyword39_20",
+      "keyword39_21",
+      "keyword39_22",
+      "keyword39_23",
+      "keyword39_24",
+      "keyword39_25",
+      "keyword39_26",
+      "keyword39_27",
+      "keyword39_28",
+      "keyword39_29",
+      "keyword39_30",
+      "keyword39_31",
+      "keyword39_32",
+      "keyword39_33",
+      "keyword39_34",
+      "keyword39_35",
+      "keyword39_36",
+      "keyword39_37",
+      "keyword39_38",
+      "keyword39_39",
+      "keyword39_40"
+    ],
+    "hashtags": [
+      "#tag39_1",
+      "#tag39_2",
+      "#tag39_3",
+      "#tag39_4",
+      "#tag39_5",
+      "#tag39_6",
+      "#tag39_7",
+      "#tag39_8",
+      "#tag39_9",
+      "#tag39_10",
+      "#tag39_11",
+      "#tag39_12",
+      "#tag39_13",
+      "#tag39_14",
+      "#tag39_15",
+      "#tag39_16",
+      "#tag39_17",
+      "#tag39_18",
+      "#tag39_19",
+      "#tag39_20",
+      "#tag39_21",
+      "#tag39_22",
+      "#tag39_23",
+      "#tag39_24",
+      "#tag39_25",
+      "#tag39_26",
+      "#tag39_27",
+      "#tag39_28",
+      "#tag39_29",
+      "#tag39_30",
+      "#tag39_31",
+      "#tag39_32",
+      "#tag39_33",
+      "#tag39_34",
+      "#tag39_35",
+      "#tag39_36",
+      "#tag39_37",
+      "#tag39_38",
+      "#tag39_39",
+      "#tag39_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 40",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword40_1",
+      "keyword40_2",
+      "keyword40_3",
+      "keyword40_4",
+      "keyword40_5",
+      "keyword40_6",
+      "keyword40_7",
+      "keyword40_8",
+      "keyword40_9",
+      "keyword40_10",
+      "keyword40_11",
+      "keyword40_12",
+      "keyword40_13",
+      "keyword40_14",
+      "keyword40_15",
+      "keyword40_16",
+      "keyword40_17",
+      "keyword40_18",
+      "keyword40_19",
+      "keyword40_20",
+      "keyword40_21",
+      "keyword40_22",
+      "keyword40_23",
+      "keyword40_24",
+      "keyword40_25",
+      "keyword40_26",
+      "keyword40_27",
+      "keyword40_28",
+      "keyword40_29",
+      "keyword40_30",
+      "keyword40_31",
+      "keyword40_32",
+      "keyword40_33",
+      "keyword40_34",
+      "keyword40_35",
+      "keyword40_36",
+      "keyword40_37",
+      "keyword40_38",
+      "keyword40_39",
+      "keyword40_40"
+    ],
+    "hashtags": [
+      "#tag40_1",
+      "#tag40_2",
+      "#tag40_3",
+      "#tag40_4",
+      "#tag40_5",
+      "#tag40_6",
+      "#tag40_7",
+      "#tag40_8",
+      "#tag40_9",
+      "#tag40_10",
+      "#tag40_11",
+      "#tag40_12",
+      "#tag40_13",
+      "#tag40_14",
+      "#tag40_15",
+      "#tag40_16",
+      "#tag40_17",
+      "#tag40_18",
+      "#tag40_19",
+      "#tag40_20",
+      "#tag40_21",
+      "#tag40_22",
+      "#tag40_23",
+      "#tag40_24",
+      "#tag40_25",
+      "#tag40_26",
+      "#tag40_27",
+      "#tag40_28",
+      "#tag40_29",
+      "#tag40_30",
+      "#tag40_31",
+      "#tag40_32",
+      "#tag40_33",
+      "#tag40_34",
+      "#tag40_35",
+      "#tag40_36",
+      "#tag40_37",
+      "#tag40_38",
+      "#tag40_39",
+      "#tag40_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 41",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword41_1",
+      "keyword41_2",
+      "keyword41_3",
+      "keyword41_4",
+      "keyword41_5",
+      "keyword41_6",
+      "keyword41_7",
+      "keyword41_8",
+      "keyword41_9",
+      "keyword41_10",
+      "keyword41_11",
+      "keyword41_12",
+      "keyword41_13",
+      "keyword41_14",
+      "keyword41_15",
+      "keyword41_16",
+      "keyword41_17",
+      "keyword41_18",
+      "keyword41_19",
+      "keyword41_20",
+      "keyword41_21",
+      "keyword41_22",
+      "keyword41_23",
+      "keyword41_24",
+      "keyword41_25",
+      "keyword41_26",
+      "keyword41_27",
+      "keyword41_28",
+      "keyword41_29",
+      "keyword41_30",
+      "keyword41_31",
+      "keyword41_32",
+      "keyword41_33",
+      "keyword41_34",
+      "keyword41_35",
+      "keyword41_36",
+      "keyword41_37",
+      "keyword41_38",
+      "keyword41_39",
+      "keyword41_40"
+    ],
+    "hashtags": [
+      "#tag41_1",
+      "#tag41_2",
+      "#tag41_3",
+      "#tag41_4",
+      "#tag41_5",
+      "#tag41_6",
+      "#tag41_7",
+      "#tag41_8",
+      "#tag41_9",
+      "#tag41_10",
+      "#tag41_11",
+      "#tag41_12",
+      "#tag41_13",
+      "#tag41_14",
+      "#tag41_15",
+      "#tag41_16",
+      "#tag41_17",
+      "#tag41_18",
+      "#tag41_19",
+      "#tag41_20",
+      "#tag41_21",
+      "#tag41_22",
+      "#tag41_23",
+      "#tag41_24",
+      "#tag41_25",
+      "#tag41_26",
+      "#tag41_27",
+      "#tag41_28",
+      "#tag41_29",
+      "#tag41_30",
+      "#tag41_31",
+      "#tag41_32",
+      "#tag41_33",
+      "#tag41_34",
+      "#tag41_35",
+      "#tag41_36",
+      "#tag41_37",
+      "#tag41_38",
+      "#tag41_39",
+      "#tag41_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 42",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword42_1",
+      "keyword42_2",
+      "keyword42_3",
+      "keyword42_4",
+      "keyword42_5",
+      "keyword42_6",
+      "keyword42_7",
+      "keyword42_8",
+      "keyword42_9",
+      "keyword42_10",
+      "keyword42_11",
+      "keyword42_12",
+      "keyword42_13",
+      "keyword42_14",
+      "keyword42_15",
+      "keyword42_16",
+      "keyword42_17",
+      "keyword42_18",
+      "keyword42_19",
+      "keyword42_20",
+      "keyword42_21",
+      "keyword42_22",
+      "keyword42_23",
+      "keyword42_24",
+      "keyword42_25",
+      "keyword42_26",
+      "keyword42_27",
+      "keyword42_28",
+      "keyword42_29",
+      "keyword42_30",
+      "keyword42_31",
+      "keyword42_32",
+      "keyword42_33",
+      "keyword42_34",
+      "keyword42_35",
+      "keyword42_36",
+      "keyword42_37",
+      "keyword42_38",
+      "keyword42_39",
+      "keyword42_40"
+    ],
+    "hashtags": [
+      "#tag42_1",
+      "#tag42_2",
+      "#tag42_3",
+      "#tag42_4",
+      "#tag42_5",
+      "#tag42_6",
+      "#tag42_7",
+      "#tag42_8",
+      "#tag42_9",
+      "#tag42_10",
+      "#tag42_11",
+      "#tag42_12",
+      "#tag42_13",
+      "#tag42_14",
+      "#tag42_15",
+      "#tag42_16",
+      "#tag42_17",
+      "#tag42_18",
+      "#tag42_19",
+      "#tag42_20",
+      "#tag42_21",
+      "#tag42_22",
+      "#tag42_23",
+      "#tag42_24",
+      "#tag42_25",
+      "#tag42_26",
+      "#tag42_27",
+      "#tag42_28",
+      "#tag42_29",
+      "#tag42_30",
+      "#tag42_31",
+      "#tag42_32",
+      "#tag42_33",
+      "#tag42_34",
+      "#tag42_35",
+      "#tag42_36",
+      "#tag42_37",
+      "#tag42_38",
+      "#tag42_39",
+      "#tag42_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 43",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword43_1",
+      "keyword43_2",
+      "keyword43_3",
+      "keyword43_4",
+      "keyword43_5",
+      "keyword43_6",
+      "keyword43_7",
+      "keyword43_8",
+      "keyword43_9",
+      "keyword43_10",
+      "keyword43_11",
+      "keyword43_12",
+      "keyword43_13",
+      "keyword43_14",
+      "keyword43_15",
+      "keyword43_16",
+      "keyword43_17",
+      "keyword43_18",
+      "keyword43_19",
+      "keyword43_20",
+      "keyword43_21",
+      "keyword43_22",
+      "keyword43_23",
+      "keyword43_24",
+      "keyword43_25",
+      "keyword43_26",
+      "keyword43_27",
+      "keyword43_28",
+      "keyword43_29",
+      "keyword43_30",
+      "keyword43_31",
+      "keyword43_32",
+      "keyword43_33",
+      "keyword43_34",
+      "keyword43_35",
+      "keyword43_36",
+      "keyword43_37",
+      "keyword43_38",
+      "keyword43_39",
+      "keyword43_40"
+    ],
+    "hashtags": [
+      "#tag43_1",
+      "#tag43_2",
+      "#tag43_3",
+      "#tag43_4",
+      "#tag43_5",
+      "#tag43_6",
+      "#tag43_7",
+      "#tag43_8",
+      "#tag43_9",
+      "#tag43_10",
+      "#tag43_11",
+      "#tag43_12",
+      "#tag43_13",
+      "#tag43_14",
+      "#tag43_15",
+      "#tag43_16",
+      "#tag43_17",
+      "#tag43_18",
+      "#tag43_19",
+      "#tag43_20",
+      "#tag43_21",
+      "#tag43_22",
+      "#tag43_23",
+      "#tag43_24",
+      "#tag43_25",
+      "#tag43_26",
+      "#tag43_27",
+      "#tag43_28",
+      "#tag43_29",
+      "#tag43_30",
+      "#tag43_31",
+      "#tag43_32",
+      "#tag43_33",
+      "#tag43_34",
+      "#tag43_35",
+      "#tag43_36",
+      "#tag43_37",
+      "#tag43_38",
+      "#tag43_39",
+      "#tag43_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 44",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword44_1",
+      "keyword44_2",
+      "keyword44_3",
+      "keyword44_4",
+      "keyword44_5",
+      "keyword44_6",
+      "keyword44_7",
+      "keyword44_8",
+      "keyword44_9",
+      "keyword44_10",
+      "keyword44_11",
+      "keyword44_12",
+      "keyword44_13",
+      "keyword44_14",
+      "keyword44_15",
+      "keyword44_16",
+      "keyword44_17",
+      "keyword44_18",
+      "keyword44_19",
+      "keyword44_20",
+      "keyword44_21",
+      "keyword44_22",
+      "keyword44_23",
+      "keyword44_24",
+      "keyword44_25",
+      "keyword44_26",
+      "keyword44_27",
+      "keyword44_28",
+      "keyword44_29",
+      "keyword44_30",
+      "keyword44_31",
+      "keyword44_32",
+      "keyword44_33",
+      "keyword44_34",
+      "keyword44_35",
+      "keyword44_36",
+      "keyword44_37",
+      "keyword44_38",
+      "keyword44_39",
+      "keyword44_40"
+    ],
+    "hashtags": [
+      "#tag44_1",
+      "#tag44_2",
+      "#tag44_3",
+      "#tag44_4",
+      "#tag44_5",
+      "#tag44_6",
+      "#tag44_7",
+      "#tag44_8",
+      "#tag44_9",
+      "#tag44_10",
+      "#tag44_11",
+      "#tag44_12",
+      "#tag44_13",
+      "#tag44_14",
+      "#tag44_15",
+      "#tag44_16",
+      "#tag44_17",
+      "#tag44_18",
+      "#tag44_19",
+      "#tag44_20",
+      "#tag44_21",
+      "#tag44_22",
+      "#tag44_23",
+      "#tag44_24",
+      "#tag44_25",
+      "#tag44_26",
+      "#tag44_27",
+      "#tag44_28",
+      "#tag44_29",
+      "#tag44_30",
+      "#tag44_31",
+      "#tag44_32",
+      "#tag44_33",
+      "#tag44_34",
+      "#tag44_35",
+      "#tag44_36",
+      "#tag44_37",
+      "#tag44_38",
+      "#tag44_39",
+      "#tag44_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 45",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword45_1",
+      "keyword45_2",
+      "keyword45_3",
+      "keyword45_4",
+      "keyword45_5",
+      "keyword45_6",
+      "keyword45_7",
+      "keyword45_8",
+      "keyword45_9",
+      "keyword45_10",
+      "keyword45_11",
+      "keyword45_12",
+      "keyword45_13",
+      "keyword45_14",
+      "keyword45_15",
+      "keyword45_16",
+      "keyword45_17",
+      "keyword45_18",
+      "keyword45_19",
+      "keyword45_20",
+      "keyword45_21",
+      "keyword45_22",
+      "keyword45_23",
+      "keyword45_24",
+      "keyword45_25",
+      "keyword45_26",
+      "keyword45_27",
+      "keyword45_28",
+      "keyword45_29",
+      "keyword45_30",
+      "keyword45_31",
+      "keyword45_32",
+      "keyword45_33",
+      "keyword45_34",
+      "keyword45_35",
+      "keyword45_36",
+      "keyword45_37",
+      "keyword45_38",
+      "keyword45_39",
+      "keyword45_40"
+    ],
+    "hashtags": [
+      "#tag45_1",
+      "#tag45_2",
+      "#tag45_3",
+      "#tag45_4",
+      "#tag45_5",
+      "#tag45_6",
+      "#tag45_7",
+      "#tag45_8",
+      "#tag45_9",
+      "#tag45_10",
+      "#tag45_11",
+      "#tag45_12",
+      "#tag45_13",
+      "#tag45_14",
+      "#tag45_15",
+      "#tag45_16",
+      "#tag45_17",
+      "#tag45_18",
+      "#tag45_19",
+      "#tag45_20",
+      "#tag45_21",
+      "#tag45_22",
+      "#tag45_23",
+      "#tag45_24",
+      "#tag45_25",
+      "#tag45_26",
+      "#tag45_27",
+      "#tag45_28",
+      "#tag45_29",
+      "#tag45_30",
+      "#tag45_31",
+      "#tag45_32",
+      "#tag45_33",
+      "#tag45_34",
+      "#tag45_35",
+      "#tag45_36",
+      "#tag45_37",
+      "#tag45_38",
+      "#tag45_39",
+      "#tag45_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 46",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword46_1",
+      "keyword46_2",
+      "keyword46_3",
+      "keyword46_4",
+      "keyword46_5",
+      "keyword46_6",
+      "keyword46_7",
+      "keyword46_8",
+      "keyword46_9",
+      "keyword46_10",
+      "keyword46_11",
+      "keyword46_12",
+      "keyword46_13",
+      "keyword46_14",
+      "keyword46_15",
+      "keyword46_16",
+      "keyword46_17",
+      "keyword46_18",
+      "keyword46_19",
+      "keyword46_20",
+      "keyword46_21",
+      "keyword46_22",
+      "keyword46_23",
+      "keyword46_24",
+      "keyword46_25",
+      "keyword46_26",
+      "keyword46_27",
+      "keyword46_28",
+      "keyword46_29",
+      "keyword46_30",
+      "keyword46_31",
+      "keyword46_32",
+      "keyword46_33",
+      "keyword46_34",
+      "keyword46_35",
+      "keyword46_36",
+      "keyword46_37",
+      "keyword46_38",
+      "keyword46_39",
+      "keyword46_40"
+    ],
+    "hashtags": [
+      "#tag46_1",
+      "#tag46_2",
+      "#tag46_3",
+      "#tag46_4",
+      "#tag46_5",
+      "#tag46_6",
+      "#tag46_7",
+      "#tag46_8",
+      "#tag46_9",
+      "#tag46_10",
+      "#tag46_11",
+      "#tag46_12",
+      "#tag46_13",
+      "#tag46_14",
+      "#tag46_15",
+      "#tag46_16",
+      "#tag46_17",
+      "#tag46_18",
+      "#tag46_19",
+      "#tag46_20",
+      "#tag46_21",
+      "#tag46_22",
+      "#tag46_23",
+      "#tag46_24",
+      "#tag46_25",
+      "#tag46_26",
+      "#tag46_27",
+      "#tag46_28",
+      "#tag46_29",
+      "#tag46_30",
+      "#tag46_31",
+      "#tag46_32",
+      "#tag46_33",
+      "#tag46_34",
+      "#tag46_35",
+      "#tag46_36",
+      "#tag46_37",
+      "#tag46_38",
+      "#tag46_39",
+      "#tag46_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 47",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword47_1",
+      "keyword47_2",
+      "keyword47_3",
+      "keyword47_4",
+      "keyword47_5",
+      "keyword47_6",
+      "keyword47_7",
+      "keyword47_8",
+      "keyword47_9",
+      "keyword47_10",
+      "keyword47_11",
+      "keyword47_12",
+      "keyword47_13",
+      "keyword47_14",
+      "keyword47_15",
+      "keyword47_16",
+      "keyword47_17",
+      "keyword47_18",
+      "keyword47_19",
+      "keyword47_20",
+      "keyword47_21",
+      "keyword47_22",
+      "keyword47_23",
+      "keyword47_24",
+      "keyword47_25",
+      "keyword47_26",
+      "keyword47_27",
+      "keyword47_28",
+      "keyword47_29",
+      "keyword47_30",
+      "keyword47_31",
+      "keyword47_32",
+      "keyword47_33",
+      "keyword47_34",
+      "keyword47_35",
+      "keyword47_36",
+      "keyword47_37",
+      "keyword47_38",
+      "keyword47_39",
+      "keyword47_40"
+    ],
+    "hashtags": [
+      "#tag47_1",
+      "#tag47_2",
+      "#tag47_3",
+      "#tag47_4",
+      "#tag47_5",
+      "#tag47_6",
+      "#tag47_7",
+      "#tag47_8",
+      "#tag47_9",
+      "#tag47_10",
+      "#tag47_11",
+      "#tag47_12",
+      "#tag47_13",
+      "#tag47_14",
+      "#tag47_15",
+      "#tag47_16",
+      "#tag47_17",
+      "#tag47_18",
+      "#tag47_19",
+      "#tag47_20",
+      "#tag47_21",
+      "#tag47_22",
+      "#tag47_23",
+      "#tag47_24",
+      "#tag47_25",
+      "#tag47_26",
+      "#tag47_27",
+      "#tag47_28",
+      "#tag47_29",
+      "#tag47_30",
+      "#tag47_31",
+      "#tag47_32",
+      "#tag47_33",
+      "#tag47_34",
+      "#tag47_35",
+      "#tag47_36",
+      "#tag47_37",
+      "#tag47_38",
+      "#tag47_39",
+      "#tag47_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 48",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword48_1",
+      "keyword48_2",
+      "keyword48_3",
+      "keyword48_4",
+      "keyword48_5",
+      "keyword48_6",
+      "keyword48_7",
+      "keyword48_8",
+      "keyword48_9",
+      "keyword48_10",
+      "keyword48_11",
+      "keyword48_12",
+      "keyword48_13",
+      "keyword48_14",
+      "keyword48_15",
+      "keyword48_16",
+      "keyword48_17",
+      "keyword48_18",
+      "keyword48_19",
+      "keyword48_20",
+      "keyword48_21",
+      "keyword48_22",
+      "keyword48_23",
+      "keyword48_24",
+      "keyword48_25",
+      "keyword48_26",
+      "keyword48_27",
+      "keyword48_28",
+      "keyword48_29",
+      "keyword48_30",
+      "keyword48_31",
+      "keyword48_32",
+      "keyword48_33",
+      "keyword48_34",
+      "keyword48_35",
+      "keyword48_36",
+      "keyword48_37",
+      "keyword48_38",
+      "keyword48_39",
+      "keyword48_40"
+    ],
+    "hashtags": [
+      "#tag48_1",
+      "#tag48_2",
+      "#tag48_3",
+      "#tag48_4",
+      "#tag48_5",
+      "#tag48_6",
+      "#tag48_7",
+      "#tag48_8",
+      "#tag48_9",
+      "#tag48_10",
+      "#tag48_11",
+      "#tag48_12",
+      "#tag48_13",
+      "#tag48_14",
+      "#tag48_15",
+      "#tag48_16",
+      "#tag48_17",
+      "#tag48_18",
+      "#tag48_19",
+      "#tag48_20",
+      "#tag48_21",
+      "#tag48_22",
+      "#tag48_23",
+      "#tag48_24",
+      "#tag48_25",
+      "#tag48_26",
+      "#tag48_27",
+      "#tag48_28",
+      "#tag48_29",
+      "#tag48_30",
+      "#tag48_31",
+      "#tag48_32",
+      "#tag48_33",
+      "#tag48_34",
+      "#tag48_35",
+      "#tag48_36",
+      "#tag48_37",
+      "#tag48_38",
+      "#tag48_39",
+      "#tag48_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 49",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword49_1",
+      "keyword49_2",
+      "keyword49_3",
+      "keyword49_4",
+      "keyword49_5",
+      "keyword49_6",
+      "keyword49_7",
+      "keyword49_8",
+      "keyword49_9",
+      "keyword49_10",
+      "keyword49_11",
+      "keyword49_12",
+      "keyword49_13",
+      "keyword49_14",
+      "keyword49_15",
+      "keyword49_16",
+      "keyword49_17",
+      "keyword49_18",
+      "keyword49_19",
+      "keyword49_20",
+      "keyword49_21",
+      "keyword49_22",
+      "keyword49_23",
+      "keyword49_24",
+      "keyword49_25",
+      "keyword49_26",
+      "keyword49_27",
+      "keyword49_28",
+      "keyword49_29",
+      "keyword49_30",
+      "keyword49_31",
+      "keyword49_32",
+      "keyword49_33",
+      "keyword49_34",
+      "keyword49_35",
+      "keyword49_36",
+      "keyword49_37",
+      "keyword49_38",
+      "keyword49_39",
+      "keyword49_40"
+    ],
+    "hashtags": [
+      "#tag49_1",
+      "#tag49_2",
+      "#tag49_3",
+      "#tag49_4",
+      "#tag49_5",
+      "#tag49_6",
+      "#tag49_7",
+      "#tag49_8",
+      "#tag49_9",
+      "#tag49_10",
+      "#tag49_11",
+      "#tag49_12",
+      "#tag49_13",
+      "#tag49_14",
+      "#tag49_15",
+      "#tag49_16",
+      "#tag49_17",
+      "#tag49_18",
+      "#tag49_19",
+      "#tag49_20",
+      "#tag49_21",
+      "#tag49_22",
+      "#tag49_23",
+      "#tag49_24",
+      "#tag49_25",
+      "#tag49_26",
+      "#tag49_27",
+      "#tag49_28",
+      "#tag49_29",
+      "#tag49_30",
+      "#tag49_31",
+      "#tag49_32",
+      "#tag49_33",
+      "#tag49_34",
+      "#tag49_35",
+      "#tag49_36",
+      "#tag49_37",
+      "#tag49_38",
+      "#tag49_39",
+      "#tag49_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "book": {
+      "title": "Livre Exemple 50",
+      "description": "Un guide pratique pour aider les créateurs à publier, marketer et augmenter les ventes de livres grâce à des workflows IA, des templates et des tunnels éprouvés."
+    },
+    "keywords": [
+      "keyword50_1",
+      "keyword50_2",
+      "keyword50_3",
+      "keyword50_4",
+      "keyword50_5",
+      "keyword50_6",
+      "keyword50_7",
+      "keyword50_8",
+      "keyword50_9",
+      "keyword50_10",
+      "keyword50_11",
+      "keyword50_12",
+      "keyword50_13",
+      "keyword50_14",
+      "keyword50_15",
+      "keyword50_16",
+      "keyword50_17",
+      "keyword50_18",
+      "keyword50_19",
+      "keyword50_20",
+      "keyword50_21",
+      "keyword50_22",
+      "keyword50_23",
+      "keyword50_24",
+      "keyword50_25",
+      "keyword50_26",
+      "keyword50_27",
+      "keyword50_28",
+      "keyword50_29",
+      "keyword50_30",
+      "keyword50_31",
+      "keyword50_32",
+      "keyword50_33",
+      "keyword50_34",
+      "keyword50_35",
+      "keyword50_36",
+      "keyword50_37",
+      "keyword50_38",
+      "keyword50_39",
+      "keyword50_40"
+    ],
+    "hashtags": [
+      "#tag50_1",
+      "#tag50_2",
+      "#tag50_3",
+      "#tag50_4",
+      "#tag50_5",
+      "#tag50_6",
+      "#tag50_7",
+      "#tag50_8",
+      "#tag50_9",
+      "#tag50_10",
+      "#tag50_11",
+      "#tag50_12",
+      "#tag50_13",
+      "#tag50_14",
+      "#tag50_15",
+      "#tag50_16",
+      "#tag50_17",
+      "#tag50_18",
+      "#tag50_19",
+      "#tag50_20",
+      "#tag50_21",
+      "#tag50_22",
+      "#tag50_23",
+      "#tag50_24",
+      "#tag50_25",
+      "#tag50_26",
+      "#tag50_27",
+      "#tag50_28",
+      "#tag50_29",
+      "#tag50_30",
+      "#tag50_31",
+      "#tag50_32",
+      "#tag50_33",
+      "#tag50_34",
+      "#tag50_35",
+      "#tag50_36",
+      "#tag50_37",
+      "#tag50_38",
+      "#tag50_39",
+      "#tag50_40"
+    ],
+    "personas": [
+      {
+        "name": "Persona 1",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 2",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 3",
+        "pain": "...",
+        "desire": "..."
+      },
+      {
+        "name": "Persona 4",
+        "pain": "...",
+        "desire": "..."
+      }
+    ],
+    "channel_plan": {
+      "TikTok": [
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        },
+        {
+          "hook": "...",
+          "cta": "..."
+        }
+      ]
+    },
+    "video_ads": [
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      },
+      {
+        "angle": "story",
+        "script": "..."
+      }
+    ]
+  }
+]

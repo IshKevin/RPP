@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="{{ g.lang }}">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/widget.css') }}"/>
+</head>
+<body>
+  <div class="wcard">
+    <div class="wtitle">{{ b['title'] }}</div>
+    <div class="wmeta">{{ b['category'] or '—' }} • {{ b['language']|upper }}</div>
+    <div class="wdesc">{{ (b['description'] or '')[:120] }}{% if (b['description'] or '')|length > 120 %}…{% endif %}</div>
+    <a class="wbtn" href="/book/{{ b['id'] }}" target="_blank">Open</a>
+  </div>
+</body>
+</html>

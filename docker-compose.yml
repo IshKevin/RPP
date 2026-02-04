@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./app/uploads:/app/app/uploads
+    environment:
+      - SECRET_KEY=production-secret-key-change-me-please
+      - DATABASE_PATH=/app/data/revenuepress.db
+      - BASE_URL=http://localhost:8000
+    restart: unless-stopped

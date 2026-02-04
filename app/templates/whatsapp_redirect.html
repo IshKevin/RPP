@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>WhatsApp Routing</h1>
+<div class="card">
+  <p>Language: <strong>{{ lang }}</strong> • Segment: <strong>{{ seg }}</strong></p>
+  <p><a class="btn" href="{{ url }}">Open WhatsApp Group</a></p>
+  <p class="muted">Admin can update group URLs in the Admin console.</p>
+</div>
+{% endblock %}

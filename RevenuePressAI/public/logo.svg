@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="60" viewBox="0 0 240 60">
+  <rect width="240" height="60" rx="12" fill="#001E3C"/>
+  <path d="M22 38c10-20 26-20 36 0" fill="none" stroke="#1991DF" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="58" cy="22" r="5" fill="#1991DF"/>
+  <text x="78" y="38" font-family="Arial, sans-serif" font-size="22" fill="#FAF8F5">RevenuePress AI</text>
+</svg>
