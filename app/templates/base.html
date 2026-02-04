@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{{ g.t('hero_title') }} — RevenuePress AI</title>
   <meta name="description" content="{{ g.t('hero_sub') }}" />
-  <link rel="icon" href="{{ url_for('static', filename='logo.svg') }}" type="image/svg+xml">
+  <link rel="icon" href="{{ url_for('static', filename='logo.png') }}" type="image/png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -18,7 +18,7 @@
     <div class="container row">
       <div class="brand">
         <a class="brandlink" href="{{ url_for('public.home') }}">
-          <img src="{{ url_for('static', filename='logo.svg') }}" alt="Logo" width="32" height="32"
+          <img src="{{ url_for('static', filename='logo.png') }}" alt="Logo" width="32" height="32"
             style="vertical-align: middle; margin-right: 8px;">RevenuePress AI
         </a>
         <span class="tagline">{{ g.t('hero_title') }}</span>

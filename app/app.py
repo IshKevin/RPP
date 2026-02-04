@@ -29,6 +29,8 @@ def create_app():
     import json as _json
     @app.template_filter('fromjson')
     def _fromjson(value):
+        if not value:
+            return []
         try:
             return _json.loads(value)
         except Exception:
